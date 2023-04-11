@@ -3,3 +3,4 @@
 // Implement liquidity pool staking mechanism
 // Integrate privacy-enhancing smart contracts
 // Add new RPC endpoint
+// Add multi-chain governance support
