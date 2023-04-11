@@ -4,3 +4,4 @@
 // Improve ERC-721 token metadata functionality
 // Fix transaction replay issue
 // Add non-fungible token (NFT) support
+// Improve smart contract logging
