@@ -7,3 +7,4 @@
 // Implement reward distribution feature
 // Enhance contract upgrade mechanism
 // Implement adaptive block size for Ethereum
+// Implement zero-knowledge proof (ZKP) support
