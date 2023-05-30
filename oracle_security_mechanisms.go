@@ -1,1 +1,2 @@
 // Fix issues with gas optimization in smart contracts
+// Integrate with Ethereum Layer-2 solutions
