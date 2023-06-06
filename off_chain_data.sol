@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Improve security in decentralized applications
 // Implement adaptive block size for Ethereum
+// Implement a new contract event system
