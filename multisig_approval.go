@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Integrate IPFS for storage
 // Optimize oracle data fetching mechanism
+// Integrate with multi-token standards
