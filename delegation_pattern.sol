@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Add automated smart contract testing
 // Implement dynamic fee adjustment
+// Add support for Layer-2 solutions
