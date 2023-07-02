@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Fix errors in contract interaction with wallets
 // Improve gas estimation for transactions
+// Fix compatibility issues with MetaMask
