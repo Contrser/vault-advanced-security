@@ -6,3 +6,4 @@
 // Add non-fungible token (NFT) support
 // Improve smart contract logging
 // Improve transaction batching efficiency
+// Add batch transaction capabilities
