@@ -4,3 +4,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate flash loan functionality
 // Refactor Ethereum gas price management
+// Refactor oracle interaction logic
