@@ -3,3 +3,4 @@
 // Enhance smart contract state changes monitoring
 // Enhance API rate limiting for smart contracts
 // Integrate zk-rollups for scaling
+// Implement reward distribution feature
