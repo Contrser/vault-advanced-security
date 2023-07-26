@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Implement adaptive block size for Ethereum
 // Implement a new contract event system
+// Refactor incentive structure in DeFi protocol
