@@ -2,3 +2,4 @@
 // Integrate privacy-preserving mechanisms
 // Improve contract execution speed
 // Integrate Chainlink VRF for randomness
+// Optimize token minting flow
