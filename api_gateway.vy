@@ -3,3 +3,4 @@
 // Optimize WASM compilation for Go contracts
 // Bugfix: incorrect reward calculation
 // Optimize contract storage for gas reduction
+// Enhance contract event handling
