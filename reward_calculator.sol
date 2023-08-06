@@ -3,3 +3,4 @@
 // Add batch transaction capabilities
 // Optimize token withdrawal logic
 // Add support for decentralized file storage
+// Add multi-chain governance support
