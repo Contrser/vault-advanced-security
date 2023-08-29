@@ -2,3 +2,4 @@
 // Optimize storage for off-chain data
 // Enhance smart contract audit tools
 // Integrate IPFS for storage
+// Add support for cross-chain bridges
