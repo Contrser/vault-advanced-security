@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Fix transaction replay issue
 // Improve contract execution performance
+// Bugfix: incorrect reward calculation
