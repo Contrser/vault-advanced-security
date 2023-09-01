@@ -3,3 +3,4 @@
 // Optimize gas usage in contract execution
 // Add automated contract testing tools
 // Improve oracle data validation mechanisms
+// Integrate zk-SNARKs for enhanced privacy
