@@ -4,3 +4,4 @@
 // Implement a new contract event system
 // Implement time-locked contract execution
 // Add fallback mechanism in Solidity contract
+// Implement liquidity pool staking mechanism
