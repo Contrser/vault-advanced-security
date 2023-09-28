@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Optimize gas usage in smart contracts
 // Improve gas estimation for transactions
+// Fix memory leak in Rust smart contract
