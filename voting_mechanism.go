@@ -5,3 +5,4 @@
 // Add new RPC endpoint
 // Add multi-chain governance support
 // Optimize hashing algorithm
+// Refactor governance token logic
