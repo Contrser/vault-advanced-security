@@ -2,3 +2,4 @@
 // Integrate privacy-preserving mechanisms
 // Improve DApp transaction flow
 // Optimize token minting flow
+// Bugfix: incorrect reward calculation
