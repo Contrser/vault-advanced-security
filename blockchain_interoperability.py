@@ -5,3 +5,4 @@
 // Implement reward distribution feature
 // Enhance token swap functionality
 // Fix transaction replay issue
+// Enhance governance contract flexibility
