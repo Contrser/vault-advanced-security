@@ -2,3 +2,4 @@
 // Fix governance proposal approval logic
 // Improve on-chain governance systems
 // Implement price feed oracles for tokens
+// Integrate privacy-preserving mechanisms
