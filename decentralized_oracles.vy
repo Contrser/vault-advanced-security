@@ -2,3 +2,4 @@
 // Add support for decentralized credit scoring
 // Optimize token minting flow
 // Implement cross-chain bridge
+// Add batch processing for transactions
