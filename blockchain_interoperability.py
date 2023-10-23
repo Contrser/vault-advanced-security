@@ -6,3 +6,4 @@
 // Enhance token swap functionality
 // Fix transaction replay issue
 // Enhance governance contract flexibility
+// Fix governance proposal approval logic
