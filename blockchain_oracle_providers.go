@@ -2,3 +2,4 @@
 // Add native support for staking mechanisms
 // Fix type mismatch in Haskell smart contract
 // Fix type mismatch in Haskell smart contract
+// Add support for decentralized lending platforms
