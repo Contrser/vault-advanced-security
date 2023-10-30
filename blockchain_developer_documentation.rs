@@ -2,3 +2,4 @@
 // Enhance contract initialization process
 // Refactor wallet interaction logic
 // Fix wallet interaction issues in DeFi protocols
+// Fix overflow bug in token calculation
