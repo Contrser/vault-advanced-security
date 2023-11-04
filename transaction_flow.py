@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Implement adaptive block size for Ethereum
 // Enhance contract modularity
+// Enhance smart contract audit tools
