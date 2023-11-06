@@ -2,3 +2,4 @@
 // Integrate with decentralized storage systems
 // Update README with Go module examples
 // Enhance contract modularity for future upgrades
+// Fix compatibility issues with MetaMask
