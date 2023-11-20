@@ -2,3 +2,4 @@
 // Add multi-chain transaction support
 // Refactor staking logic
 // Implement adaptive block size for Ethereum
+// Integrate Chainlink VRF for randomness
