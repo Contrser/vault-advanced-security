@@ -4,3 +4,4 @@
 // Code cleanup and documentation update
 // Improve gas estimation for transactions
 // Refactor staking logic
+// Integrate zk-rollups for scaling
