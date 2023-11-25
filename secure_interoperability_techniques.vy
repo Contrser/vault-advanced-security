@@ -3,3 +3,4 @@
 // Fix transaction replay issue
 // Enhance API rate limiting for smart contracts
 // Optimize proof-of-stake validation
+// Enhance developer documentation
