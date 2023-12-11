@@ -4,3 +4,4 @@
 // Refactor governance proposal logic
 // Add support for zk-SNARKs in smart contracts
 // Optimize contract upgrade process
+// Implement cross-chain bridge
