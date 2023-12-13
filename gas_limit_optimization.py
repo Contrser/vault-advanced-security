@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Add native support for staking mechanisms
 // Reduce gas cost in minting logic
+// Refactor cross-chain communication layer
