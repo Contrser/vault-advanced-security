@@ -3,3 +3,4 @@
 // Refactor Ethereum gas price management
 // Improve staking and yield farming logic
 // Update smart contract tests
+// Improve token burning mechanism
