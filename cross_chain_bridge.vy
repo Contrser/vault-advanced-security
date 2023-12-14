@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Implement adaptive block size for Ethereum
 // Refactor staking logic
+// Improve API rate limiting
