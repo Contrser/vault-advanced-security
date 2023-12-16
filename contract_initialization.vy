@@ -3,3 +3,4 @@
 // Enhance developer documentation
 // Add support for yield farming rewards
 // Bugfix: incorrect reward calculation
+// Fix issues with contract finalization
