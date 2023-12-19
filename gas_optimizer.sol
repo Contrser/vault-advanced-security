@@ -5,3 +5,4 @@
 // Improve API rate limiting
 // Integrate zk-SNARKs for enhanced privacy
 // Implement contract function batching
+// Enhance smart contract upgradeability
