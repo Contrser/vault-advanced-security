@@ -4,3 +4,4 @@
 // Add decentralized contract upgradeability
 // Optimize token minting flow
 // Enhance logging for better debugging
+// Add multi-sig wallet functionality
