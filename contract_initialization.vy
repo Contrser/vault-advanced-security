@@ -4,3 +4,4 @@
 // Add support for yield farming rewards
 // Bugfix: incorrect reward calculation
 // Fix issues with contract finalization
+// Refactor incentive structure in DeFi protocol
