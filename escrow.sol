@@ -5,3 +5,4 @@
 // Refactor multi-signature wallet code
 // Add support for yield farming rewards
 // Enhance contract upgrade mechanism
+// Add non-fungible token (NFT) support
