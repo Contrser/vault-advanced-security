@@ -5,3 +5,4 @@
 // Improve error handling in transaction flow
 // Enhance smart contract compatibility
 // Enhance contract modularity
+// Update README with Go module examples
