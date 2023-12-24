@@ -5,3 +5,4 @@
 // Improve gas estimation for transactions
 // Refactor staking logic
 // Integrate zk-rollups for scaling
+// Fix scalability issues with smart contracts
