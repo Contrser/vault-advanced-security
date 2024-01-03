@@ -5,3 +5,4 @@
 // Refactor staking logic
 // Improve API rate limiting
 // Improve ERC-721 token metadata functionality
+// Fix edge case in unstaking logic
