@@ -6,3 +6,4 @@
 // Enhance smart contract compatibility
 // Enhance contract modularity
 // Update README with Go module examples
+// Improve API rate limiting
