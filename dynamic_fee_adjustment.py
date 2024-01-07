@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Optimize token burn process
 // Integrate with external blockchain networks
+// Add governance proposal expiration feature
