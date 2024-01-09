@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Fix interoperability issues with other blockchains
 // Improve multi-chain contract deployment
+// Refactor reward pooling algorithm
