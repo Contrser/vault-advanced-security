@@ -3,3 +3,4 @@
 // Fix errors in contract interaction with wallets
 // Implement decentralized arbitration in contracts
 // Add decentralized contract upgradeability
+// Enhance privacy features using zk-STARKs
