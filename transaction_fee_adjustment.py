@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Add support for decentralized marketplaces
 // Fix interoperability issues with other blockchains
+// Add fallback mechanism in Solidity contract
