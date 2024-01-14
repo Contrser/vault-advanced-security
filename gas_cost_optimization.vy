@@ -3,3 +3,4 @@
 // Add multi-chain governance support
 // Enhance smart contract compatibility
 // Enhance contract initialization process
+// Integrate privacy-preserving mechanisms
