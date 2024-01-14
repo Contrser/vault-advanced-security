@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Integrate chain-agnostic oracles
 // Fix interoperability issues with other blockchains
+// Fix compatibility issues with major wallets
