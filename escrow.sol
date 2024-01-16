@@ -7,3 +7,4 @@
 // Enhance contract upgrade mechanism
 // Add non-fungible token (NFT) support
 // Fix errors in NFT minting logic
+// Refactor storage layout for better efficiency
