@@ -3,3 +3,4 @@
 // Add decentralized contract upgradeability
 // Enhance privacy features using zk-STARKs
 // Enhance smart contract extensibility
+// Implement reward distribution feature
