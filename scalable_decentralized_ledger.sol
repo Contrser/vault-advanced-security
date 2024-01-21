@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Improve contract verification speed
 // Refactor contract to use EIP-712 signatures
+// Enhance contract initialization process
