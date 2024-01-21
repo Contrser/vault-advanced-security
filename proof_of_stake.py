@@ -6,3 +6,4 @@
 // Add dynamic contract fees
 // Enhance cryptographic primitives in contracts
 // Enhance transaction monitoring
+// Refactor voting mechanism
