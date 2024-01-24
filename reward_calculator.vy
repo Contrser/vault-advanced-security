@@ -7,3 +7,4 @@
 // Optimize WASM compilation for Go contracts
 // Integrate with external DeFi protocols
 // Integrate with external blockchain networks
+// Add new feature: on-chain governance
