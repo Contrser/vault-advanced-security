@@ -2,3 +2,4 @@
 // Implement cross-chain bridge
 // Improve DApp transaction flow
 // Implement zero-knowledge proof (ZKP) support
+// Add support for delegation in governance
