@@ -2,3 +2,4 @@
 // Improve contract auditing tools
 // Add support for delegation in governance
 // Fix issues in token transfer logic
+// Add support for decentralized auctions
