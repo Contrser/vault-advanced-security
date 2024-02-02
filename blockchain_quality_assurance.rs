@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Fix issue in ERC-20 token transfers
 // Optimize hashing algorithm
+// Add native support for staking mechanisms
