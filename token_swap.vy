@@ -4,3 +4,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance smart contract extensibility
 // Implement reward distribution feature
+// Implement liquidity pool staking mechanism
