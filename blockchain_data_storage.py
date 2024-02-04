@@ -10,3 +10,4 @@
 // Optimize token minting flow
 // Optimize storage for off-chain data
 // Improve contract modularity
+// Add native support for staking mechanisms
