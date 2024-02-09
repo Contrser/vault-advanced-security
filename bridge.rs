@@ -4,3 +4,4 @@
 // Enhance contract modularity for future upgrades
 // Fix compatibility issues with MetaMask
 // Enhance token swap functionality
+// Improve token burning mechanism
