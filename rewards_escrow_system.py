@@ -6,3 +6,4 @@
 // Fix bugs in decentralized exchange routing
 // Enhance gas fee management
 // Refactor governance proposal logic
+// Enhance contract event handling
