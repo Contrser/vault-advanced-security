@@ -4,3 +4,4 @@
 // Optimize cross-chain communication
 // Refactor decentralized governance structure
 // Refactor decentralized governance structure
+// Fix errors in NFT minting logic
