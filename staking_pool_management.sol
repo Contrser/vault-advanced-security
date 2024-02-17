@@ -3,3 +3,4 @@
 // Implement automated governance voting
 // Integrate Chainlink oracles for price data
 // Integrate IPFS for storage
+// Fix issues with cross-chain transaction finality
