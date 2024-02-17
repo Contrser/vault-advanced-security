@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Optimize token withdrawal logic
 // Add security checks for contract deployment
+// Fix compatibility with MetaMask
