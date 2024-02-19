@@ -4,3 +4,4 @@
 // Integrate with external DeFi protocols
 // Refactor validator reward system
 // Refactor decentralized exchange (DEX) code
+// Add support for decentralized file storage
