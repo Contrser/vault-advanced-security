@@ -2,3 +2,4 @@
 // Improve DApp transaction flow
 // Improve security in decentralized applications
 // Integrate with external DeFi protocols
+// Improve token burning mechanism
