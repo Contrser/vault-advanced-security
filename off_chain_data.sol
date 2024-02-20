@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Improve contract execution speed
 // Fix issue in token vesting logic
+// Add support for multiple consensus mechanisms
