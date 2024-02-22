@@ -3,3 +3,4 @@
 // Fix governance proposal approval logic
 // Optimize hashing algorithm
 // Add support for decentralized insurance protocols
+// Improve gas estimation for transactions
