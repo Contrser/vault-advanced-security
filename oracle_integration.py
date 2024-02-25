@@ -3,3 +3,4 @@
 // Add unit tests for staking module
 // Fix issues with token vesting contracts
 // Add automated smart contract testing
+// Integrate Chainlink oracles for price data
