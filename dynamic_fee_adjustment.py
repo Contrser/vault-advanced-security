@@ -5,3 +5,4 @@
 // Optimize token burn process
 // Integrate with external blockchain networks
 // Add governance proposal expiration feature
+// Integrate IPFS for storage
