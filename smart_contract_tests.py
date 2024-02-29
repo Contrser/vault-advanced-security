@@ -2,3 +2,4 @@
 // Fix race condition in staking pool
 // Fix Oracle communication delay issues
 // Improve staking logic for better rewards
+// Optimize storage for off-chain data
