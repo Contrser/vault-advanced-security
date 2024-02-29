@@ -11,3 +11,4 @@
 // Optimize storage for off-chain data
 // Improve contract modularity
 // Add native support for staking mechanisms
+// Update dependencies for Vyper contract
