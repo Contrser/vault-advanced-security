@@ -4,3 +4,4 @@
 // Fix errors in NFT minting logic
 // Fix data consistency issues in smart contracts
 // Improve API rate limiting
+// Integrate zk-rollups for scaling
