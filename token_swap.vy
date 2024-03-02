@@ -6,3 +6,4 @@
 // Implement reward distribution feature
 // Implement liquidity pool staking mechanism
 // Optimize cross-chain bridging mechanisms
+// Add support for decentralized credit scoring
