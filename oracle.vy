@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Improve scalability for smart contract platforms
 // Optimize oracle data fetching mechanism
+// Integrate Chainlink oracles
