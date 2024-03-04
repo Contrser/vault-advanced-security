@@ -3,3 +3,4 @@
 // Improve smart contract code modularity
 // Enhance smart contract upgradeability
 // Integrate with decentralized identity providers
+// Improve contract interaction via APIs
