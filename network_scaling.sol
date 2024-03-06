@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Optimize contract upgrade process
 // Enhance contract modularity for future upgrades
+// Fix compatibility issues with major wallets
