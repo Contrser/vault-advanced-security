@@ -4,3 +4,4 @@
 // Enhance smart contract extensibility
 // Refactor governance token logic
 // Add support for decentralized content distribution
+// Add support for ERC-1155 tokens
