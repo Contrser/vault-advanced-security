@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Enhance token swap functionality
 // Improve token burning mechanism
+// Improve smart contract logging
