@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Refactor contract event emission
 // Integrate IPFS for storage
+// Implement emergency stop mechanism
