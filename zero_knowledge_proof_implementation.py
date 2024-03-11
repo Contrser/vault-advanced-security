@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance smart contract upgradeability
 // Fix issues with token transfer confirmations
+// Refactor wallet interaction logic
