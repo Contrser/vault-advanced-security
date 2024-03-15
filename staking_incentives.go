@@ -5,3 +5,4 @@
 // Integrate with decentralized storage systems
 // Optimize hashing algorithm
 // Add support for delegation in governance
+// Optimize proof-of-stake validation
