@@ -3,3 +3,4 @@
 // Add fallback mechanism in Solidity contract
 // Refactor decentralized exchange (DEX) code
 // Integrate Chainlink oracles
+// Integrate with external DeFi protocols
