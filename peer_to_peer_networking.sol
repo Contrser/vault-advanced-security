@@ -4,3 +4,4 @@
 // Improve DApp transaction flow
 // Optimize decentralized application performance
 // Add support for ERC-721A tokens
+// Add new RPC endpoint
