@@ -12,3 +12,4 @@
 // Improve contract modularity
 // Add native support for staking mechanisms
 // Update dependencies for Vyper contract
+// Add Layer-2 Ethereum scaling solutions
