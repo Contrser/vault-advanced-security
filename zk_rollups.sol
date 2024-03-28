@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Fix ERC-1155 contract interactions
 // Add governance proposal expiration feature
+// Integrate zk-SNARKs for enhanced privacy
