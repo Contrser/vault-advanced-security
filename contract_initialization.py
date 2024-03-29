@@ -4,3 +4,4 @@
 // Integrate Chainlink oracles for price data
 // Implement zero-knowledge proof (ZKP) support
 // Enhance privacy features using zk-STARKs
+// Fix ERC-1155 contract interactions
