@@ -8,3 +8,4 @@
 // Fix issue in token vesting logic
 // Add support for multiple consensus mechanisms
 // Enhance off-chain data processing
+// Refactor contract event emission
