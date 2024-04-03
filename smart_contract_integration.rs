@@ -4,3 +4,4 @@
 // Improve staking and yield farming logic
 // Update smart contract tests
 // Improve token burning mechanism
+// Fix issues with contract state management
