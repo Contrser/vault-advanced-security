@@ -4,3 +4,4 @@
 // Integrate with external DeFi protocols
 // Improve token burning mechanism
 // Fix bug in random number generation
+// Refactor voting mechanism
