@@ -3,3 +3,4 @@
 // Bugfix: incorrect reward calculation
 // Refactor contract event emission
 // Refactor token economics model
+// Fix race condition in staking pool
