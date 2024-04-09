@@ -5,3 +5,4 @@
 // Bugfix: incorrect reward calculation
 // Optimize Oracle-based data fetching
 // Improve contract creation process
+// Improve contract verification speed
