@@ -6,3 +6,4 @@
 // Add multi-chain governance support
 // Optimize hashing algorithm
 // Refactor governance token logic
+// Fix contract reentrancy issues
