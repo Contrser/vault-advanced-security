@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Fix bug in random number generation
 // Refactor voting mechanism
+// Fix wallet interaction issues in DeFi protocols
