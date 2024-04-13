@@ -4,3 +4,4 @@
 // Fix issues with cross-chain transaction finality
 // Refactor wallet interaction logic
 // Integrate decentralized prediction models
+// Refactor staking logic
