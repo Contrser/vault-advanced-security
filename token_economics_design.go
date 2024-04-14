@@ -5,3 +5,4 @@
 // Integrate zk-rollups for scaling
 // Implement reward distribution feature
 // Add native support for staking rewards
+// Add multi-sig wallet functionality
