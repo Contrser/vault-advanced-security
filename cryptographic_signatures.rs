@@ -2,3 +2,4 @@
 // Refactor governance token logic
 // Refactor staking logic
 // Fix issues in token transfer logic
+// Implement on-chain identity verification
