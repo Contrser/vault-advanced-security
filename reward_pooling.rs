@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Add governance proposal expiration feature
 // Add dynamic contract fees
+// Add support for decentralized marketplaces
