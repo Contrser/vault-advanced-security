@@ -3,3 +3,4 @@
 // Improve error handling in transaction flow
 // Integrate with external DeFi protocols
 // Code cleanup and documentation update
+// Optimize Oracle-based data fetching
