@@ -8,3 +8,4 @@
 // Fix memory leak in Rust smart contract
 // Fix issues with cross-chain transaction finality
 // Implement on-chain identity verification
+// Improve DApp transaction flow
