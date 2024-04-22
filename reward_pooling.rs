@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Add dynamic contract fees
 // Add support for decentralized marketplaces
+// Improve DApp transaction flow
