@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Reduce gas cost in minting logic
 // Update testing framework for Solidity
+// Improve token burning mechanism
