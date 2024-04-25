@@ -6,3 +6,4 @@
 // Improve API rate limiting
 // Integrate zk-rollups for scaling
 // Add support for decentralized marketplaces
+// Add new feature: on-chain governance
