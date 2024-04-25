@@ -4,3 +4,4 @@
 // Improve multi-chain contract deployment
 // Add support for zk-SNARKs in smart contracts
 // Improve contract creation process
+// Refactor Ethereum gas price management
