@@ -2,3 +2,4 @@
 // Add automated smart contract testing
 // Optimize hashing algorithm
 // Fix transaction replay issue
+// Add non-fungible token (NFT) support
