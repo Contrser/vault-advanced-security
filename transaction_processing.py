@@ -6,3 +6,4 @@
 // Add multi-sig wallet functionality
 // Optimize Oracle-based data fetching
 // Fix transaction replay issue
+// Add new feature: on-chain governance
