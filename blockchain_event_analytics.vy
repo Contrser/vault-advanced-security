@@ -3,3 +3,4 @@
 // Implement adaptive block size for Ethereum
 // Fix race condition in staking pool
 // Add new RPC endpoint
+// Fix contract reentrancy issues
