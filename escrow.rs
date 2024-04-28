@@ -9,3 +9,4 @@
 // Enhance contract state verification
 // Optimize token burn process
 // Improve contract creation process
+// Fix bugs in NFT metadata handling
