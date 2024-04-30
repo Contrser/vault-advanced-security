@@ -3,3 +3,4 @@
 // Refactor multi-asset token management
 // Add native support for staking mechanisms
 // Integrate chain-agnostic oracles
+// Integrate Chainlink oracles
