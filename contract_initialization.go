@@ -6,3 +6,4 @@
 // Fix issue in token vesting logic
 // Integrate decentralized oracles for data feeds
 // Improve contract modularity
+// Refactor smart contract testing framework
