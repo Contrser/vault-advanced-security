@@ -5,3 +5,4 @@
 // Add support for cross-chain bridges
 // Fix contract reentrancy issues
 // Enhance contract event handling
+// Fix compatibility issues with MetaMask
