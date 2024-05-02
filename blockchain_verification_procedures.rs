@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Integrate automated market maker (AMM) logic
 // Optimize token minting flow
+// Refactor staking logic
