@@ -2,3 +2,4 @@
 // Implement reward distribution feature
 // Fix issues with token vesting contracts
 // Integrate with decentralized prediction markets
+// Fix compatibility issues with MetaMask
