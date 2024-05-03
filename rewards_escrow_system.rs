@@ -3,3 +3,4 @@
 // Refactor staking logic
 // Fix wallet interaction issues in DeFi protocols
 // Improve token burning mechanism
+// Refactor decentralized exchange (DEX) code
