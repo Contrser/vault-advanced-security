@@ -6,3 +6,4 @@
 // Refactor staking logic
 // Integrate zk-rollups for scaling
 // Fix scalability issues with smart contracts
+// Fix governance proposal approval logic
