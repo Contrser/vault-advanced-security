@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve contract creation process
 // Integrate decentralized prediction models
+// Fix bugs in NFT metadata handling
