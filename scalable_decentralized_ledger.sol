@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Enhance contract initialization process
 // Integrate with decentralized storage systems
+// Improve error handling in transaction flow
