@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Integrate multi-chain liquidity pools
 // Implement delegation pattern
+// Integrate zk-rollups for scaling
