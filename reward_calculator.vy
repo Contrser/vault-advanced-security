@@ -9,3 +9,4 @@
 // Integrate with external blockchain networks
 // Add new feature: on-chain governance
 // Add support for ERC-1155 tokens
+// Integrate Chainlink oracles for price data
