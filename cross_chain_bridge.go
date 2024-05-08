@@ -8,3 +8,4 @@
 // Update README with Go module examples
 // Improve API rate limiting
 // Add support for multiple consensus mechanisms
+// Enhance security checks
