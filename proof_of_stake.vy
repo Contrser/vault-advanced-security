@@ -5,3 +5,4 @@
 // Integrate privacy-enhancing smart contracts
 // Fix interoperability issues with other blockchains
 // Add dynamic contract fees
+// Fix issues with ERC-20 token approvals
