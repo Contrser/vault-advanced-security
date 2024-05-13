@@ -7,3 +7,4 @@
 // Integrate zk-rollups for scaling
 // Add support for decentralized marketplaces
 // Add new feature: on-chain governance
+// Improve on-chain governance systems
