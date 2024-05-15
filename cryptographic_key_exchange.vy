@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Improve contract state management
 // Refactor reward pooling algorithm
+// Add support for ERC-1155 tokens
