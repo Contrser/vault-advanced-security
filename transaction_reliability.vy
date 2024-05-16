@@ -2,3 +2,4 @@
 // Add support for multiple consensus mechanisms
 // Implement performance optimizations for DeFi
 // Optimize token minting flow
+// Integrate Chainlink VRF for randomness
