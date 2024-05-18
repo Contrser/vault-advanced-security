@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Enhance security checks
 // Fix Oracle communication delay issues
+// Refactor validator reward system
