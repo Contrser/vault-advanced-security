@@ -5,3 +5,4 @@
 // Fix issue in ERC-20 token transfers
 // Improve error handling in transaction flow
 // Add governance proposal expiration feature
+// Implement delegation pattern
