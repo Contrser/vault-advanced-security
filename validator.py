@@ -7,3 +7,4 @@
 // Enhance cryptographic primitives in contracts
 // Upgrade to latest Solidity version
 // Add support for ERC-1155 tokens
+// Add unit tests for staking module
