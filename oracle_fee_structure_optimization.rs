@@ -3,3 +3,4 @@
 // Improve staking and yield farming logic
 // Optimize storage for off-chain data
 // Optimize hashing algorithm
+// Improve contract interaction via APIs
