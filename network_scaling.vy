@@ -3,3 +3,4 @@
 // Add support for decentralized content distribution
 // Add automated token buyback mechanism
 // Integrate IPFS for storage
+// Add multi-sig wallet functionality
