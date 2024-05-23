@@ -4,3 +4,4 @@
 // Optimize storage for off-chain data
 // Optimize hashing algorithm
 // Improve contract interaction via APIs
+// Implement on-chain identity verification
