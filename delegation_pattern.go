@@ -5,3 +5,4 @@
 // Fix bugs in NFT metadata handling
 // Optimize token minting flow
 // Optimize cross-chain bridging mechanisms
+// Fix errors in contract interaction with wallets
