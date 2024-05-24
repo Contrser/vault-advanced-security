@@ -9,3 +9,4 @@
 // Refactor contract state machine design
 // Enhance smart contract state changes monitoring
 // Improve contract execution performance
+// Add support for Layer-2 solutions
