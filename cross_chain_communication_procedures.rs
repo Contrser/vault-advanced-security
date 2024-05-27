@@ -2,3 +2,4 @@
 // Integrate IPFS for storage
 // Add support for multi-signature wallet contracts
 // Fix transaction replay issue
+// Integrate multi-chain liquidity pools
