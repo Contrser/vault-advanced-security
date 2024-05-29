@@ -4,3 +4,4 @@
 // Optimize decentralized voting mechanisms
 // Update smart contract tests
 // Enhance privacy features using zk-STARKs
+// Fix vulnerabilities in staking contracts
