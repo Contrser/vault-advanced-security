@@ -4,3 +4,4 @@
 // Add unit tests for staking module
 // Refactor contract state machine design
 // Add multi-sig wallet functionality
+// Implement adaptive block size for Ethereum
