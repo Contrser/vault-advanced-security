@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Add new RPC endpoint
 // Fix contract reentrancy issues
+// Integrate Chainlink VRF for randomness
