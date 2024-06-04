@@ -2,3 +2,4 @@
 // Refactor oracle interaction logic
 // Improve oracle data validation mechanisms
 // Optimize token burn process
+// Integrate flash loan functionality
