@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Improve decentralized identity (DID) systems
 // Add support for decentralized credit scoring
+// Add support for ERC-721A tokens
