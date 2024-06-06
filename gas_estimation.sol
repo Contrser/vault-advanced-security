@@ -3,3 +3,4 @@
 // Improve token minting flow efficiency
 // Fix transaction replay issue
 // Fix compatibility issues with MetaMask
+// Enhance privacy features using zk-STARKs
