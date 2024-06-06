@@ -4,3 +4,4 @@
 // Optimize cross-chain bridging mechanisms
 // Optimize oracle data fetching mechanism
 // Enhance test coverage for Rust module
+// Add new RPC endpoint
