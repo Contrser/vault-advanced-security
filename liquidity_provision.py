@@ -4,3 +4,4 @@
 // Fix issue in ERC-20 token transfers
 // Improve on-chain governance systems
 // Implement cross-chain bridge
+// Add new feature: on-chain governance
