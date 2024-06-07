@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Improve staking logic for better rewards
 // Implement cross-chain bridge
+// Improve staking logic for better rewards
