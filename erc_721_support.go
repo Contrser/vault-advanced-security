@@ -4,3 +4,4 @@
 // Improve API rate limiting
 // Optimize gas usage for contract deployment
 // Fix issues in token transfer logic
+// Enhance privacy features using zk-STARKs
