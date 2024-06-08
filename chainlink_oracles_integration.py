@@ -2,3 +2,4 @@
 // Add new feature: on-chain governance
 // Refactor staking logic
 // Improve contract verification speed
+// Enhance privacy features using zk-STARKs
