@@ -3,3 +3,4 @@
 // Add support for multiple consensus mechanisms
 // Implement rewards escrow system
 // Add support for decentralized insurance protocols
+// Add support for Layer-2 solutions
