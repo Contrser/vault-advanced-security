@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Refactor decentralized exchange (DEX) code
 // Add automated token buyback mechanism
+// Implement on-chain fee adjustment mechanisms
