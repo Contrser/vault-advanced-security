@@ -2,3 +2,4 @@
 // Integrate Chainlink oracles
 // Optimize storage for off-chain data
 // Improve error handling in transaction flow
+// Add native support for staking rewards
