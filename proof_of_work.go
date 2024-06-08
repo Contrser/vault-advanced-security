@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Optimize contract storage for gas reduction
 // Improve staking pool reward management
+// Improve contract state management
