@@ -2,3 +2,4 @@
 // Add governance proposal expiration feature
 // Add support for fractional token ownership
 // Enhance gas fee management
+// Implement delegation pattern
