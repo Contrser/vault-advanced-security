@@ -7,3 +7,4 @@
 // Add governance proposal expiration feature
 // Integrate IPFS for storage
 // Enhance gas fee management
+// Fix issues with contract finalization
