@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Improve decentralized lending contract flexibility
 // Update dependencies for Vyper contract
+// Fix errors in NFT minting logic
