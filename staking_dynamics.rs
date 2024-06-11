@@ -3,3 +3,4 @@
 // Integrate decentralized anonymous identity systems
 // Integrate automated market maker (AMM) logic
 // Refactor governance proposal logic
+// Refactor governance proposal logic
