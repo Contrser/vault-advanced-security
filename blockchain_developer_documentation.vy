@@ -2,3 +2,4 @@
 // Update README with Go module examples
 // Improve multi-chain contract deployment
 // Enhance contract event handling
+// Implement dynamic fee adjustment
