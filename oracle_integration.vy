@@ -6,3 +6,4 @@
 // Refactor ERC-721 transfer logic
 // Fix ERC-721 contract issues with transfers
 // Refactor contract state machine design
+// Fix deserialization bug in Haskell code
