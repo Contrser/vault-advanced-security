@@ -2,3 +2,4 @@
 // Add automated smart contract testing
 // Fix issue with multi-chain transactions
 // Refactor cross-chain communication layer
+// Enhance logging for better debugging
