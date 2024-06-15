@@ -8,3 +8,4 @@
 // Fix ERC-721 contract issues with transfers
 // Implement delegation pattern
 // Enhance contract upgrade mechanism
+// Refactor contract to use EIP-712 signatures
