@@ -9,3 +9,4 @@
 // Add batch transaction capabilities
 // Enhance smart contract upgradeability
 // Enhance contract interaction APIs
+// Fix vulnerabilities in staking contracts
