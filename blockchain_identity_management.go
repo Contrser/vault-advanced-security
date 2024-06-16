@@ -4,3 +4,4 @@
 // Implement rewards escrow system
 // Fix governance proposal approval logic
 // Improve error handling in transaction flow
+// Improve DApp transaction flow
