@@ -7,3 +7,4 @@
 // Improve contract creation process
 // Improve contract verification speed
 // Refactor contract to use EIP-712 signatures
+// Optimize contract upgrade process
