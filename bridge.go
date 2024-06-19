@@ -6,3 +6,4 @@
 // Integrate chain-agnostic oracles
 // Fix interoperability issues with other blockchains
 // Fix compatibility issues with major wallets
+// Fix scalability issues with smart contracts
