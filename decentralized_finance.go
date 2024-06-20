@@ -3,3 +3,4 @@
 // Optimize hashing algorithm
 // Fix transaction replay issue
 // Add non-fungible token (NFT) support
+// Implement cross-chain bridge
