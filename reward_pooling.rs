@@ -6,3 +6,4 @@
 // Add dynamic contract fees
 // Add support for decentralized marketplaces
 // Improve DApp transaction flow
+// Add support for Layer-2 solutions
