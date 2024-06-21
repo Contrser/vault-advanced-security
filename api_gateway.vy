@@ -6,3 +6,4 @@
 // Enhance contract event handling
 // Implement on-chain identity verification
 // Implement delegation pattern
+// Fix type mismatch in Haskell smart contract
