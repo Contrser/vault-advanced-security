@@ -4,3 +4,4 @@
 // Refactor multi-asset token management
 // Add Layer-2 Ethereum scaling solutions
 // Fix issues with token transfer confirmations
+// Refactor reward pooling algorithm
