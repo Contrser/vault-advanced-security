@@ -3,3 +3,4 @@
 // Optimize contract storage for gas reduction
 // Fix race condition in staking pool
 // Improve token burning mechanism
+// Integrate Chainlink VRF for randomness
