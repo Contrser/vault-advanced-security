@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Implement delegation pattern
 // Fix interoperability issues with other blockchains
+// Refactor token economics model
