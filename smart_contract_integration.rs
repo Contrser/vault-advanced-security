@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Improve token burning mechanism
 // Fix issues with contract state management
+// Integrate zk-SNARKs for enhanced privacy
