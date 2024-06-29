@@ -2,3 +2,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Refactor staking logic
 // Implement cross-chain bridge
+// Add support for batch transaction processing
