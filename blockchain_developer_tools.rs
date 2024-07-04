@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Improve contract verification speed
 // Refactor smart contract testing framework
+// Refactor contract event emission
