@@ -6,3 +6,4 @@
 // Add support for decentralized credit scoring
 // Fix Oracle communication delay issues
 // Enhance developer documentation
+// Integrate privacy-preserving mechanisms
