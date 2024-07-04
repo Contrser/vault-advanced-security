@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Implement decentralized arbitration in contracts
 // Enhance off-chain data processing
+// Add batch transaction capabilities
