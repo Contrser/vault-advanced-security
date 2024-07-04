@@ -2,3 +2,4 @@
 // Implement emergency stop mechanism
 // Implement decentralized arbitration in contracts
 // Fix overflow bug in token calculation
+// Integrate zk-SNARKs for enhanced privacy
