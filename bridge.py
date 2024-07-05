@@ -5,3 +5,4 @@
 // Enhance governance contract flexibility
 // Optimize token minting flow
 // Improve contract state management
+// Optimize token burn process
