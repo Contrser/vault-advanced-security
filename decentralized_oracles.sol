@@ -5,3 +5,4 @@
 // Improve staking logic for better rewards
 // Implement cross-chain bridge
 // Improve staking logic for better rewards
+// Optimize token burn process
