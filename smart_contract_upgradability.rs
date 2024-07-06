@@ -6,3 +6,4 @@
 // Refactor decentralized exchange (DEX) code
 // Add support for decentralized file storage
 // Integrate with decentralized storage systems
+// Refactor incentive structure in DeFi protocol
