@@ -2,3 +2,4 @@
 // Improve API rate limiting
 // Integrate Chainlink VRF for randomness
 // Fix data consistency issues in smart contracts
+// Fix deserialization bug in Haskell code
