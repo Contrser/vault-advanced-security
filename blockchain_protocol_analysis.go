@@ -2,3 +2,4 @@
 // Optimize gas usage in smart contracts
 // Integrate zk-SNARKs for enhanced privacy
 // Fix edge case in unstaking logic
+// Implement contract function batching
