@@ -10,3 +10,4 @@
 // Enhance smart contract state changes monitoring
 // Improve contract execution performance
 // Add support for Layer-2 solutions
+// Fix issues in multi-token smart contracts
