@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Fix governance proposal approval logic
 // Refactor validator reward system
+// Implement reward distribution feature
