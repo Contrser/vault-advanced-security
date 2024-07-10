@@ -3,3 +3,4 @@
 // Improve scalability for smart contract platforms
 // Add native support for staking rewards
 // Optimize contract upgrade process
+// Integrate Chainlink VRF for randomness
