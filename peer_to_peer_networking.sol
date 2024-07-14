@@ -5,3 +5,4 @@
 // Optimize decentralized application performance
 // Add support for ERC-721A tokens
 // Add new RPC endpoint
+// Add batch processing for transactions
