@@ -3,3 +3,4 @@
 // Update testing framework for Solidity
 // Integrate Chainlink VRF for randomness
 // Improve gas fee estimation accuracy
+// Improve error handling in transaction flow
