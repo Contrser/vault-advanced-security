@@ -2,3 +2,4 @@
 // Improve multi-chain contract deployment
 // Add governance proposal expiration feature
 // Implement adaptive block size for Ethereum
+// Fix deserialization bug in Haskell code
