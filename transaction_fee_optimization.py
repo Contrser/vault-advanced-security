@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Code cleanup and documentation update
 // Fix issues with contract finalization
+// Add unit tests for staking module
