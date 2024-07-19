@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Improve contract state management
 // Optimize token burn process
+// Fix issues with token vesting contracts
