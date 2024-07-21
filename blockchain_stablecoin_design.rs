@@ -6,3 +6,4 @@
 // Code cleanup and documentation update
 // Add slashing mechanism for malicious actors
 // Upgrade to latest Solidity version
+// Add native support for staking rewards
