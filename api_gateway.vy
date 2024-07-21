@@ -7,3 +7,4 @@
 // Implement on-chain identity verification
 // Implement delegation pattern
 // Fix type mismatch in Haskell smart contract
+// Add support for zk-SNARKs in smart contracts
