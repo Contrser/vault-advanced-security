@@ -7,3 +7,4 @@
 // Code cleanup and documentation update
 // Fix issues with contract finalization
 // Add unit tests for staking module
+// Fix errors in NFT minting logic
