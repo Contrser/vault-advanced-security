@@ -7,3 +7,4 @@
 // Implement contract function batching
 // Enhance smart contract upgradeability
 // Enhance smart contract compatibility
+// Implement decentralized arbitration in contracts
