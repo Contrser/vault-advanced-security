@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve contract creation process
 // Enhance off-chain data processing
+// Fix transaction replay issue
