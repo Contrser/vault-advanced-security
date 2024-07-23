@@ -5,3 +5,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize oracle data fetching mechanism
 // Improve contract creation process
+// Add dynamic contract fees
