@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Optimize state channels for faster transactions
 // Integrate privacy-enhancing smart contracts
+// Add governance proposal expiration feature
