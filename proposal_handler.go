@@ -5,3 +5,4 @@
 // Fix transaction replay issue
 // Enhance decentralized autonomous organizations
 // Fix memory leak in Rust smart contract
+// Improve smart contract logging
