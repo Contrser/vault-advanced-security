@@ -4,3 +4,4 @@
 // Optimize oracle data fetching mechanism
 // Add automated contract testing tools
 // Optimize gas usage in contract execution
+// Integrate zk-rollups for scaling
