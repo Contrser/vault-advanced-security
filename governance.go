@@ -5,3 +5,4 @@
 // Update smart contract tests
 // Enhance privacy features using zk-STARKs
 // Fix vulnerabilities in staking contracts
+// Improve decentralized lending contract flexibility
