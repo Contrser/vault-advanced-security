@@ -7,3 +7,4 @@
 // Fix ERC-721 contract issues with transfers
 // Refactor contract state machine design
 // Fix deserialization bug in Haskell code
+// Optimize WASM compilation for Go contracts
