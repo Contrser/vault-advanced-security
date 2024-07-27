@@ -4,3 +4,4 @@
 // Add support for decentralized file storage
 // Optimize gas usage for contract deployment
 // Fix ERC-1155 contract interactions
+// Refactor contract to use EIP-712 signatures
