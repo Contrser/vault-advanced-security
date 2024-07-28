@@ -3,3 +3,4 @@
 // Optimize gas usage in smart contracts
 // Improve API rate limiting
 // Add governance proposal expiration feature
+// Integrate privacy-preserving mechanisms
