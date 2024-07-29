@@ -3,3 +3,4 @@
 // Improve contract state management
 // Enhance contract upgrade process
 // Add support for fractional token ownership
+// Refactor ERC-721 transfer logic
