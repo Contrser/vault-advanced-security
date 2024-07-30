@@ -7,3 +7,4 @@
 // Refactor contract state machine design
 // Implement adaptive block size for Ethereum
 // Optimize decentralized application performance
+// Integrate zk-SNARKs for enhanced privacy
