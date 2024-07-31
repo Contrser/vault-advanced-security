@@ -3,3 +3,4 @@
 // Integrate Chainlink VRF for randomness
 // Add security checks for contract deployment
 // Add support for ERC-721A tokens
+// Fix issues with token vesting contracts
