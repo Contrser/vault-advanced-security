@@ -4,3 +4,4 @@
 // Integrate zk-rollups for scaling
 // Fix wallet interaction issues in DeFi protocols
 // Fix contract reentrancy issues
+// Integrate Chainlink oracles
