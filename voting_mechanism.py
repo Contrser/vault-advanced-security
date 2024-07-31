@@ -10,3 +10,4 @@
 // Enhance smart contract upgradeability
 // Enhance contract interaction APIs
 // Fix vulnerabilities in staking contracts
+// Integrate with decentralized storage systems
