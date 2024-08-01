@@ -4,3 +4,4 @@
 // Add security checks for contract deployment
 // Add support for ERC-721A tokens
 // Fix issues with token vesting contracts
+// Enhance contract upgrade mechanism
