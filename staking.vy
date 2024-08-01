@@ -2,3 +2,4 @@
 // Implement delegation pattern
 // Fix bugs in decentralized exchange routing
 // Refactor validator reward system
+// Refactor voting mechanism
