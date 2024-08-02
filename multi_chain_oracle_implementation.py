@@ -2,3 +2,4 @@
 // Update testing framework for Solidity
 // Integrate with external DeFi protocols
 // Implement delegation pattern
+// Add support for decentralized file storage
