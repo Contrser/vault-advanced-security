@@ -9,3 +9,4 @@
 // Refactor voting mechanism
 // Implement performance optimizations for DeFi
 // Fix issues with token vesting contracts
+// Fix errors in NFT minting logic
