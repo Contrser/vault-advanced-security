@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement price feed oracles for tokens
 // Integrate zk-SNARKs for enhanced privacy
+// Implement on-chain identity verification
