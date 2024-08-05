@@ -6,3 +6,4 @@
 // Add support for ERC-721A tokens
 // Add new RPC endpoint
 // Add batch processing for transactions
+// Add support for decentralized lending platforms
