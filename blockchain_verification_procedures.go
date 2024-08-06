@@ -3,3 +3,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Fix type mismatch in Haskell smart contract
 // Refactor multi-signature wallet code
+// Improve decentralized identity (DID) systems
