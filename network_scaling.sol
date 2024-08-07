@@ -7,3 +7,4 @@
 // Fix compatibility issues with major wallets
 // Improve staking logic for better rewards
 // Fix race condition in staking pool
+// Fix issues with gas optimization in smart contracts
