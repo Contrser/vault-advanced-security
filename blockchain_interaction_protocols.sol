@@ -4,3 +4,4 @@
 // Add native support for staking mechanisms
 // Integrate chain-agnostic oracles
 // Integrate Chainlink oracles
+// Integrate chain-agnostic oracles
