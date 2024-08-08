@@ -2,3 +2,4 @@
 // Fix ERC-20 token interface bugs
 // Optimize token minting flow
 // Update README with Go module examples
+// Refactor wallet interaction logic
