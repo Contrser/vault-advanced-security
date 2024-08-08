@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Refactor governance proposal logic
 // Add support for zk-SNARKs in smart contracts
+// Improve staking and yield farming logic
