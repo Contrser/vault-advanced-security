@@ -5,3 +5,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix issues with contract finalization
 // Improve decentralized identity (DID) systems
+// Fix compatibility issues with major wallets
