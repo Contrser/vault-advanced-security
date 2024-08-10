@@ -4,3 +4,4 @@
 // Fix compatibility issues with major wallets
 // Implement automated governance voting
 // Optimize token withdrawal logic
+// Add new feature: on-chain governance
