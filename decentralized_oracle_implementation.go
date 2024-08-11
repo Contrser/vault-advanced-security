@@ -3,3 +3,4 @@
 // Add governance proposal expiration feature
 // Add decentralized contract upgradeability
 // Optimize contract upgrade process
+// Implement zero-knowledge proof (ZKP) support
