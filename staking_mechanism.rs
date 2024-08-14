@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Fix interoperability issues with other blockchains
 // Refactor Ethereum gas price management
+// Fix race condition in staking pool
