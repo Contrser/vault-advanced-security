@@ -7,3 +7,4 @@
 // Fix compatibility with MetaMask
 // Fix token transfer approval issues
 // Enhance contract upgrade process
+// Add support for NFT marketplaces
