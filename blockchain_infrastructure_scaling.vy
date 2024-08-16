@@ -5,3 +5,4 @@
 // Add support for multiple consensus mechanisms
 // Improve contract execution performance
 // Add governance proposal expiration feature
+// Refactor ERC-721 transfer logic
