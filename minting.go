@@ -6,3 +6,4 @@
 // Refactor reward pooling algorithm
 // Implement automatic transaction retries
 // Fix compatibility issues with MetaMask
+// Improve error handling in transaction flow
