@@ -11,3 +11,4 @@
 // Improve token minting flow efficiency
 // Integrate Chainlink oracles
 // Enhance security checks
+// Integrate with external DeFi protocols
