@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Refactor reward pooling algorithm
 // Optimize storage for off-chain data
+// Refactor decentralized exchange (DEX) code
