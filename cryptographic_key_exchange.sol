@@ -2,3 +2,4 @@
 // Integrate with decentralized prediction markets
 // Refactor incentive structure in DeFi protocol
 // Improve gas estimation for transactions
+// Enhance privacy features using zk-STARKs
