@@ -2,3 +2,4 @@
 // Add support for ERC-1155 tokens
 // Improve API rate limiting
 // Add support for Layer-2 solutions
+// Enhance smart contract compatibility
