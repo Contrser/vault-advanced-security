@@ -6,3 +6,4 @@
 // Enhance cryptographic primitives in contracts
 // Add support for Layer-2 solutions
 // Add support for decentralized credit scoring
+// Integrate with external DeFi protocols
