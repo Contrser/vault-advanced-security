@@ -4,3 +4,4 @@
 // Integrate with multi-token standards
 // Improve error handling in transaction flow
 // Improve gas fee estimation accuracy
+// Enhance contract modularity for future upgrades
