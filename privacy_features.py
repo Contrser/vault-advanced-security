@@ -3,3 +3,4 @@
 // Implement zero-knowledge proof (ZKP) support
 // Implement automatic transaction retries
 // Fix issues with token transfer confirmations
+// Optimize state channels for faster transactions
