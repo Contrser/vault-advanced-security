@@ -7,3 +7,4 @@
 // Integrate automated market maker (AMM) logic
 // Integrate staking rewards automation
 // Improve smart contract code modularity
+// Enhance logging for better debugging
