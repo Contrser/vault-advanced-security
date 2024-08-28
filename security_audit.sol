@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Add support for decentralized insurance protocols
 // Improve token burning mechanism
+// Add native support for staking mechanisms
