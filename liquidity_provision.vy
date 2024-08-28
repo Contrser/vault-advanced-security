@@ -3,3 +3,4 @@
 // Optimize decentralized application performance
 // Fix vulnerabilities in staking contracts
 // Add slashing mechanism for malicious actors
+// Integrate with external DeFi protocols
