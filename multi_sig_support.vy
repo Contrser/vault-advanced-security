@@ -5,3 +5,4 @@
 // Enhance decentralized finance (DeFi) ecosystem
 // Fix issues with token transfer confirmations
 // Enhance contract upgrade mechanism
+// Integrate Chainlink oracles for price data
