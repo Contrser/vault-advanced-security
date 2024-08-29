@@ -2,3 +2,4 @@
 // Refactor smart contract testing framework
 // Enhance developer documentation
 // Optimize token burn process
+// Fix issue with multi-chain transactions
