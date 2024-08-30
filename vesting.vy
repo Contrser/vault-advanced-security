@@ -12,3 +12,4 @@
 // Fix bug in random number generation
 // Enhance off-chain data processing
 // Optimize storage for off-chain data
+// Fix vulnerabilities in staking contracts
