@@ -5,3 +5,4 @@
 // Add support for decentralized auctions
 // Optimize cross-chain communication
 // Fix Oracle communication delay issues
+// Refactor reward pooling algorithm
