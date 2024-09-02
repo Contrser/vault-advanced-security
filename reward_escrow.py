@@ -7,3 +7,4 @@
 // Refactor reward pooling algorithm
 // Optimize storage for off-chain data
 // Refactor decentralized exchange (DEX) code
+// Improve error handling in transaction flow
