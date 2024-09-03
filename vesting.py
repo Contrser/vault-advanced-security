@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Optimize gas usage for contract deployment
 // Implement delegation pattern
+// Add support for zk-SNARKs in smart contracts
