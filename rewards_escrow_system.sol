@@ -4,3 +4,4 @@
 // Refactor contract event emission
 // Refactor token economics model
 // Fix race condition in staking pool
+// Improve token burning mechanism
