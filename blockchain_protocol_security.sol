@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Fix transaction replay issue
 // Integrate Chainlink oracles
+// Integrate IPFS for storage
