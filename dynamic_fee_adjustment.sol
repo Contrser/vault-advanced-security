@@ -2,3 +2,4 @@
 // Add new RPC endpoint
 // Add decentralized contract upgradeability
 // Fix transaction replay issue
+// Add support for decentralized file storage
