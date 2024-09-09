@@ -10,3 +10,4 @@
 // Fix memory leak in Rust smart contract
 // Fix ERC-1155 contract interactions
 // Improve decentralized lending contract flexibility
+// Enhance governance contract flexibility
