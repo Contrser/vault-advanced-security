@@ -5,3 +5,4 @@
 // Implement performance optimizations for DeFi
 // Optimize gas cost in function execution
 // Bugfix: incorrect reward calculation
+// Add support for multiple consensus mechanisms
