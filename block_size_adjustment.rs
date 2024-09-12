@@ -8,3 +8,4 @@
 // Implement delegation pattern
 // Optimize token minting flow
 // Integrate zk-SNARKs for enhanced privacy
+// Enhance transaction monitoring
