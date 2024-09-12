@@ -8,3 +8,4 @@
 // Optimize oracle data fetching mechanism
 // Add non-fungible token (NFT) support
 // Refactor storage layout for better efficiency
+// Add support for batch transaction processing
