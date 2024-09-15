@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Add support for multiple consensus mechanisms
 // Add support for NFT marketplaces
+// Add batch processing for transactions
