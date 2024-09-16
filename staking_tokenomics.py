@@ -6,3 +6,4 @@
 // Implement a new contract event system
 // Implement liquidity pool staking mechanism
 // Refactor incentive structure in DeFi protocol
+// Implement contract function batching
