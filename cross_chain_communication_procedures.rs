@@ -3,3 +3,4 @@
 // Add support for multi-signature wallet contracts
 // Fix transaction replay issue
 // Integrate multi-chain liquidity pools
+// Improve token burning mechanism
