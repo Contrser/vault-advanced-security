@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Implement reward distribution feature
 // Integrate decentralized oracles for data feeds
+// Integrate with decentralized identity providers
