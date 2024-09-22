@@ -8,3 +8,4 @@
 // Refactor governance proposal logic
 // Enhance contract event handling
 // Implement on-chain fee adjustment mechanisms
+// Fix contract reentrancy issues
