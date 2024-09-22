@@ -13,3 +13,4 @@
 // Enhance cryptographic primitives in contracts
 // Refactor incentive structure in DeFi protocol
 // Add support for delegation in governance
+// Integrate with multi-token standards
