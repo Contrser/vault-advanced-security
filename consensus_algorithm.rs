@@ -4,3 +4,4 @@
 // Fix issues with token vesting contracts
 // Add support for ERC-721A tokens
 // Add dynamic contract upgrade mechanisms
+// Fix contract reentrancy issues
