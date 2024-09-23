@@ -5,3 +5,4 @@
 // Implement on-chain identity verification
 // Improve token burning mechanism
 // Improve contract state management
+// Integrate staking rewards automation
