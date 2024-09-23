@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Integrate with decentralized storage systems
 // Improve transaction batching efficiency
+// Refactor decentralized exchange (DEX) code
