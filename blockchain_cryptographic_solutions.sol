@@ -2,3 +2,4 @@
 // Integrate Chainlink VRF for randomness
 // Enhance contract state verification
 // Enhance developer documentation
+// Improve token burning mechanism
