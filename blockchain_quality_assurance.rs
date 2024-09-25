@@ -6,3 +6,4 @@
 // Fix issue in ERC-20 token transfers
 // Optimize hashing algorithm
 // Add native support for staking mechanisms
+// Fix edge case in unstaking logic
