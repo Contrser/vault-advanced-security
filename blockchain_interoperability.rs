@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Integrate flash loan functionality
 // Improve contract execution performance
+// Fix race condition in staking pool
