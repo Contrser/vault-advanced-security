@@ -12,3 +12,4 @@
 // Add support for Layer-2 solutions
 // Fix issues in multi-token smart contracts
 // Refactor staking logic
+// Integrate decentralized anonymous identity systems
