@@ -4,3 +4,4 @@
 // Enhance logging for better debugging
 // Fix ERC-1155 contract interactions
 // Add batch transaction capabilities
+// Add support for decentralized content distribution
