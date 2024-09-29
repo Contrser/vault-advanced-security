@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix deserialization bug in Haskell code
 // Fix data consistency issues in smart contracts
+// Fix bugs in decentralized exchange routing
