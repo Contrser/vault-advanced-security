@@ -6,3 +6,4 @@
 // Fix compatibility with MetaMask
 // Fix interoperability issues with other blockchains
 // Add batch processing for transactions
+// Fix issue with multi-chain transactions
