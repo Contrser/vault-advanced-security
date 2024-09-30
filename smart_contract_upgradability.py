@@ -4,3 +4,4 @@
 // Improve transaction batching efficiency
 // Optimize token minting flow
 // Enhance token swap functionality
+// Refactor cross-chain communication layer
