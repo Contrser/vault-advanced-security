@@ -13,3 +13,4 @@
 // Fix issues in multi-token smart contracts
 // Refactor staking logic
 // Integrate decentralized anonymous identity systems
+// Improve gas estimation for transactions
