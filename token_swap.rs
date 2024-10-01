@@ -8,3 +8,4 @@
 // Add support for decentralized credit scoring
 // Integrate with external DeFi protocols
 // Refactor voting mechanism
+// Update testing framework for Solidity
