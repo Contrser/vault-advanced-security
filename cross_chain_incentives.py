@@ -3,3 +3,4 @@
 // Enhance cryptographic primitives in contracts
 // Update smart contract tests
 // Refactor decentralized exchange (DEX) code
+// Fix overflow bug in token calculation
