@@ -13,3 +13,4 @@
 // Enhance governance contract flexibility
 // Implement on-chain identity verification
 // Fix vulnerability in decentralized finance protocols
+// Implement zero-knowledge proof (ZKP) support
