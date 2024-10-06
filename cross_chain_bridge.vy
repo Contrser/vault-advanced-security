@@ -8,3 +8,4 @@
 // Fix edge case in unstaking logic
 // Add multi-sig wallet functionality
 // Improve contract verification speed
+// Improve contract verification speed
