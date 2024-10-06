@@ -5,3 +5,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Implement cross-platform contract compatibility
 // Integrate IPFS for storage
+// Fix ERC-20 token interface bugs
