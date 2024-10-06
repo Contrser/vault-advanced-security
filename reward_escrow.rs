@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Improve contract execution performance
 // Refactor decentralized exchange (DEX) code
+// Update README with Go module examples
