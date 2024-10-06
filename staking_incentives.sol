@@ -4,3 +4,4 @@
 // Add support for multi-signature wallet contracts
 // Add new RPC endpoint
 // Reduce gas cost in minting logic
+// Add support for ERC-721A tokens
