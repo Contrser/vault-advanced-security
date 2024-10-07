@@ -4,3 +4,4 @@
 // Add new RPC endpoint
 // Fix issues in token transfer logic
 // Improve contract verification speed
+// Add slashing mechanism for malicious actors
