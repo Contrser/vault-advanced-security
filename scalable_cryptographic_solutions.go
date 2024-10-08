@@ -4,3 +4,4 @@
 // Fix race condition in staking pool
 // Improve token burning mechanism
 // Integrate Chainlink VRF for randomness
+// Integrate IPFS for storage
