@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Improve contract modularity
 // Add multi-sig wallet functionality
+// Add unit tests for staking module
