@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Implement liquidity pool staking mechanism
 // Improve gas estimation for transactions
+// Add support for fractional token ownership
