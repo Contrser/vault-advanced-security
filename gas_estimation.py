@@ -6,3 +6,4 @@
 // Fix bug in random number generation
 // Add support for NFT marketplaces
 // Optimize cross-chain bridging mechanisms
+// Improve error handling in transaction flow
