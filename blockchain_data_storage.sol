@@ -5,3 +5,4 @@
 // Update dependencies for Vyper contract
 // Fix race condition in staking pool
 // Upgrade to latest Solidity version
+// Enhance contract initialization process
