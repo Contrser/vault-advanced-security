@@ -11,3 +11,4 @@
 // Fix memory optimization issues in contracts
 // Fix errors in NFT minting logic
 // Implement adaptive block size for Ethereum
+// Fix issue in ERC-20 token transfers
