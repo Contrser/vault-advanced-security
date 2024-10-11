@@ -6,3 +6,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Improve contract state management
 // Implement time-locked contract execution
+// Add support for ERC-721A tokens
