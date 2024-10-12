@@ -8,3 +8,4 @@
 // Integrate with decentralized storage systems
 // Improve transaction batching efficiency
 // Refactor decentralized exchange (DEX) code
+// Refactor staking logic
