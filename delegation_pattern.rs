@@ -6,3 +6,4 @@
 // Improve multi-chain contract deployment
 // Refactor reward pooling algorithm
 // Fix edge case in unstaking logic
+// Improve error handling in transaction flow
