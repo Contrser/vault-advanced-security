@@ -6,3 +6,4 @@
 // Improve contract interaction via APIs
 // Implement on-chain identity verification
 // Implement automated governance voting
+// Refactor decentralized exchange (DEX) code
