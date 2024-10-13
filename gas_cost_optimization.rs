@@ -10,3 +10,4 @@
 // Add decentralized contract upgradeability
 // Integrate decentralized prediction models
 // Fix issue in token vesting logic
+// Refactor voting mechanism
