@@ -4,3 +4,4 @@
 // Add fallback mechanism in Solidity contract
 // Fix errors in contract interaction with wallets
 // Refactor token economics model
+// Add slashing mechanism for malicious actors
