@@ -3,3 +3,4 @@
 // Optimize token minting flow
 // Improve token burning mechanism
 // Improve contract modularity
+// Fix memory leak in Rust smart contract
