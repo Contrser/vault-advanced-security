@@ -2,3 +2,4 @@
 // Refactor contract state machine design
 // Fix compatibility issues with major wallets
 // Add support for decentralized insurance protocols
+// Fix ERC-721 contract issues with transfers
