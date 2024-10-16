@@ -4,3 +4,4 @@
 // Integrate Chainlink VRF for randomness
 // Improve gas fee estimation accuracy
 // Improve error handling in transaction flow
+// Improve staking and yield farming logic
