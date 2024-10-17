@@ -8,3 +8,4 @@
 // Refactor governance token logic
 // Fix contract reentrancy issues
 // Implement price feed oracles for tokens
+// Fix compatibility issues with major wallets
