@@ -4,3 +4,4 @@
 // Optimize Oracle-based data fetching
 // Integrate privacy-preserving mechanisms
 // Upgrade to latest Solidity version
+// Fix governance proposal approval logic
