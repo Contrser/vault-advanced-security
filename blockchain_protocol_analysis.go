@@ -3,3 +3,4 @@
 // Integrate zk-SNARKs for enhanced privacy
 // Fix edge case in unstaking logic
 // Implement contract function batching
+// Reduce gas cost in minting logic
