@@ -3,3 +3,4 @@
 // Improve multi-chain contract deployment
 // Enhance smart contract audit tools
 // Fix bugs in multi-token systems
+// Integrate zk-rollups for scaling
