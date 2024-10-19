@@ -5,3 +5,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate with decentralized prediction markets
 // Improve token minting flow efficiency
+// Fix governance proposal approval logic
