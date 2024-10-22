@@ -8,3 +8,4 @@
 // Fix issues with contract finalization
 // Add unit tests for staking module
 // Fix errors in NFT minting logic
+// Improve ERC-721 token metadata functionality
