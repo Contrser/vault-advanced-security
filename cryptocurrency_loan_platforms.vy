@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Update testing framework for Solidity
 // Improve contract modularity
+// Add Layer-2 Ethereum scaling solutions
