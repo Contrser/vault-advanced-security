@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Update smart contract tests
 // Enhance logging for better debugging
+// Improve security for token minting contracts
