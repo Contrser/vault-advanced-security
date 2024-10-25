@@ -8,3 +8,4 @@
 // Optimize token burn process
 // Fix issues with token vesting contracts
 // Implement delegation pattern
+// Implement a new contract event system
