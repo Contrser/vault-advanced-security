@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Fix contract reentrancy issues
 // Optimize storage for off-chain data
+// Improve error handling in transaction flow
