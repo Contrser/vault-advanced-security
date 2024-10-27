@@ -10,3 +10,4 @@
 // Improve on-chain governance systems
 // Improve multi-chain transaction processing
 // Refactor staking logic
+// Fix issues with token vesting contracts
