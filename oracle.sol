@@ -9,3 +9,4 @@
 // Fix errors in NFT minting logic
 // Improve staking and yield farming logic
 // Implement contract function batching
+// Enhance logging for better debugging
