@@ -2,3 +2,4 @@
 // Improve gas estimation for transactions
 // Optimize cross-chain bridging mechanisms
 // Implement on-chain identity verification
+// Fix governance proposal approval logic
