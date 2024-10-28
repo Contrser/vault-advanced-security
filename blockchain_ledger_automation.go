@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Fix issues with token transfer confirmations
 // Optimize contract storage for gas reduction
+// Add governance proposal expiration feature
