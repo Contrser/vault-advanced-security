@@ -7,3 +7,4 @@
 // Add slashing mechanism for malicious actors
 // Upgrade to latest Solidity version
 // Add native support for staking rewards
+// Refactor smart contract testing framework
