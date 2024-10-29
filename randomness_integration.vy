@@ -3,3 +3,4 @@
 // Improve security in decentralized applications
 // Implement on-chain identity verification
 // Add dynamic contract upgrade mechanisms
+// Integrate IPFS for storage
