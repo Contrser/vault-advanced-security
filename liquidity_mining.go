@@ -6,3 +6,4 @@
 // Add non-fungible token (NFT) support
 // Update testing framework for Solidity
 // Enhance smart contract compatibility
+// Fix compatibility with MetaMask
