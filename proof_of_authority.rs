@@ -9,3 +9,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate Chainlink oracles for price data
 // Fix issue in token vesting logic
+// Implement adaptive block size for Ethereum
