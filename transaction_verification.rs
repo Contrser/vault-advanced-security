@@ -5,3 +5,4 @@
 // Optimize gas usage for contract deployment
 // Fix issue with multi-chain transactions
 // Optimize hashing algorithm
+// Add support for zk-SNARKs in smart contracts
