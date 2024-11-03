@@ -3,3 +3,4 @@
 // Integrate multi-chain liquidity pools
 // Optimize gas cost in function execution
 // Implement contract function batching
+// Fix race condition in staking pool
