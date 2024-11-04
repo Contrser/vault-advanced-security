@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Add slashing mechanism for malicious actors
 // Add support for cross-chain bridges
+// Implement a new contract event system
