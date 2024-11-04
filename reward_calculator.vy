@@ -15,3 +15,4 @@
 // Add support for delegation in governance
 // Integrate with multi-token standards
 // Fix issues in token transfer logic
+// Fix issues with contract state management
