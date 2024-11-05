@@ -9,3 +9,4 @@
 // Fix issues with token vesting contracts
 // Implement delegation pattern
 // Implement a new contract event system
+// Fix interoperability issues with other blockchains
