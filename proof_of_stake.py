@@ -11,3 +11,4 @@
 // Fix issues with token vesting contracts
 // Fix errors in NFT minting logic
 // Enhance smart contract upgradeability
+// Refactor voting mechanism
