@@ -2,3 +2,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Enhance contract initialization process
 // Refactor staking logic
+// Enhance privacy features using zk-STARKs
