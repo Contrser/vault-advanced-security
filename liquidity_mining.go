@@ -7,3 +7,4 @@
 // Update testing framework for Solidity
 // Enhance smart contract compatibility
 // Fix compatibility with MetaMask
+// Optimize contract storage for gas reduction
