@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Enhance contract initialization process
 // Code cleanup and documentation update
+// Refactor cross-chain communication layer
