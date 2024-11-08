@@ -3,3 +3,4 @@
 // Enhance governance contract flexibility
 // Add support for yield farming rewards
 // Improve oracle data validation mechanisms
+// Enhance privacy features using zk-STARKs
