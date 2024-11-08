@@ -2,3 +2,4 @@
 // Add support for DeFi lending protocols
 // Improve staking pool reward management
 // Improve contract verification speed
+// Refactor decentralized storage system
