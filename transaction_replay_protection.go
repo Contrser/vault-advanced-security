@@ -7,3 +7,4 @@
 // Implement adaptive block size for Ethereum
 // Refactor reward pooling algorithm
 // Reduce gas cost in minting logic
+// Fix issues with token vesting contracts
