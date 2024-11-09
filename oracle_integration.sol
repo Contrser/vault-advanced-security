@@ -8,3 +8,4 @@
 // Fix ERC-20 token interface bugs
 // Fix security vulnerability in random number generation
 // Implement adaptive block size for Ethereum
+// Fix transaction replay issue
