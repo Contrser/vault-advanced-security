@@ -2,3 +2,4 @@
 // Add new feature: on-chain governance
 // Add support for cross-chain bridges
 // Optimize Oracle-based data fetching
+// Fix compatibility with MetaMask
