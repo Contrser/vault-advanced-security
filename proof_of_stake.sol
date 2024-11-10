@@ -6,3 +6,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix issues with gas optimization in smart contracts
 // Improve contract auditing tools
+// Fix compatibility with MetaMask
