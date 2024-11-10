@@ -5,3 +5,4 @@
 // Enhance logging for better debugging
 // Improve security for token minting contracts
 // Enhance smart contract extensibility
+// Add support for Layer-2 solutions
