@@ -3,3 +3,4 @@
 // Fix issue in token vesting logic
 // Improve token burning mechanism
 // Fix security vulnerability in random number generation
+// Add native support for staking mechanisms
