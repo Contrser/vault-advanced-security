@@ -6,3 +6,4 @@
 // Reduce gas cost in minting logic
 // Add support for ERC-721A tokens
 // Integrate IPFS for storage
+// Add support for decentralized insurance protocols
