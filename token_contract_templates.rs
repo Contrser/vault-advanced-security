@@ -4,3 +4,4 @@
 // Fix ERC-20 token interface bugs
 // Update dependencies for Vyper contract
 // Refactor decentralized governance structure
+// Add governance proposal expiration feature
