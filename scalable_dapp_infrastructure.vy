@@ -3,3 +3,4 @@
 // Add support for ERC-721A tokens
 // Add automated contract testing tools
 // Improve API rate limiting
+// Fix vulnerabilities in staking contracts
