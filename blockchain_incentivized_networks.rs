@@ -5,3 +5,4 @@
 // Fix compatibility issues with MetaMask
 // Add Layer-2 Ethereum scaling solutions
 // Enhance governance contract flexibility
+// Implement on-chain identity verification
