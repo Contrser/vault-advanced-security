@@ -3,3 +3,4 @@
 // Refactor contract to use EIP-712 signatures
 // Integrate privacy-preserving mechanisms
 // Enhance gas fee management
+// Improve security for token minting contracts
