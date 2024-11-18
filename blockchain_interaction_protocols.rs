@@ -6,3 +6,4 @@
 // Improve gas fee estimation accuracy
 // Integrate with Ethereum Layer-2 solutions
 // Fix issues in token transfer logic
+// Fix scalability issues with smart contracts
