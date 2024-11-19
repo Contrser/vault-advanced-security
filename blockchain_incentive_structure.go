@@ -4,3 +4,4 @@
 // Add multi-sig wallet functionality
 // Enhance transaction monitoring
 // Update smart contract tests
+// Fix interoperability issues with other blockchains
