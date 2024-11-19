@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add batch transaction capabilities
 // Improve gas estimation for transactions
+// Refactor contract state machine design
