@@ -5,3 +5,4 @@
 // Optimize token minting flow
 // Enhance token swap functionality
 // Refactor cross-chain communication layer
+// Add support for cross-chain bridges
