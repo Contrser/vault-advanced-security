@@ -2,3 +2,4 @@
 // Enhance smart contract compatibility
 // Add support for decentralized file storage
 // Refactor governance token logic
+// Add multi-chain governance support
