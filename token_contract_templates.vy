@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Fix type mismatch in Haskell smart contract
 // Refactor oracle interaction logic
+// Enhance API rate limiting for smart contracts
