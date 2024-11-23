@@ -5,3 +5,4 @@
 // Enhance privacy features using zk-STARKs
 // Enhance security checks
 // Fix issues with token transfer confirmations
+// Refactor reward pooling algorithm
