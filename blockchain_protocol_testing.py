@@ -2,3 +2,4 @@
 // Add unit tests for staking module
 // Implement zero-knowledge proof (ZKP) support
 // Fix overflow bug in token calculation
+// Add new feature: on-chain governance
