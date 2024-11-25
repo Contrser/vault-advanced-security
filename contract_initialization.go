@@ -7,3 +7,4 @@
 // Integrate decentralized oracles for data feeds
 // Improve contract modularity
 // Refactor smart contract testing framework
+// Refactor oracle interaction logic
