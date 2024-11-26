@@ -6,3 +6,4 @@
 // Optimize token minting flow
 // Implement liquidity pool staking mechanism
 // Fix issue in ERC-20 token transfers
+// Fix issues with cross-chain transaction finality
