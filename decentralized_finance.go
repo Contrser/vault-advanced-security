@@ -4,3 +4,4 @@
 // Fix transaction replay issue
 // Add non-fungible token (NFT) support
 // Implement cross-chain bridge
+// Add slashing mechanism for malicious actors
