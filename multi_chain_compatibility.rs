@@ -9,3 +9,4 @@
 // Fix governance proposal approval logic
 // Implement time-locked contract execution
 // Optimize WASM compilation for Go contracts
+// Refactor contract to use EIP-712 signatures
