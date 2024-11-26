@@ -4,3 +4,4 @@
 // Add support for decentralized content distribution
 // Refactor multi-signature wallet code
 // Refactor voting mechanism
+// Add native support for staking mechanisms
