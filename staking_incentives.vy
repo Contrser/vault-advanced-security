@@ -7,3 +7,4 @@
 // Integrate IPFS for storage
 // Fix ERC-20 token interface bugs
 // Add support for fractional token ownership
+// Improve ERC-721 token metadata functionality
