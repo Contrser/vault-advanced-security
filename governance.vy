@@ -12,3 +12,4 @@
 // Add support for multiple consensus mechanisms
 // Optimize storage for off-chain data
 // Improve token minting flow efficiency
+// Integrate zk-SNARKs for enhanced privacy
