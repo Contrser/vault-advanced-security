@@ -2,3 +2,4 @@
 // Integrate with external DeFi protocols
 // Enhance smart contract upgradeability
 // Implement on-chain identity verification
+// Fix vulnerabilities in staking contracts
