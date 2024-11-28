@@ -2,3 +2,4 @@
 // Refactor staking logic
 // Refactor reward pooling algorithm
 // Update README with Go module examples
+// Implement decentralized arbitration in contracts
