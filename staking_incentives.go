@@ -6,3 +6,4 @@
 // Optimize hashing algorithm
 // Add support for delegation in governance
 // Optimize proof-of-stake validation
+// Integrate staking rewards automation
