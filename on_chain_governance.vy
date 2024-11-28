@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Add support for ERC-721A tokens
 // Implement reward distribution feature
+// Refactor contract to use EIP-712 signatures
