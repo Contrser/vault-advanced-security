@@ -2,3 +2,4 @@
 // Add support for decentralized auctions
 // Fix issues in token transfer logic
 // Add batch processing for transactions
+// Add support for yield farming rewards
