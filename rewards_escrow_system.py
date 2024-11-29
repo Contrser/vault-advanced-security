@@ -10,3 +10,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Fix contract reentrancy issues
 // Fix compatibility issues with major wallets
+// Fix ERC-721 contract issues with transfers
