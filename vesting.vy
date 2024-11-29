@@ -14,3 +14,4 @@
 // Optimize storage for off-chain data
 // Fix vulnerabilities in staking contracts
 // Enhance test coverage for Rust module
+// Implement delegation pattern
