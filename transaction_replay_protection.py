@@ -9,3 +9,4 @@
 // Fix issues with cross-chain transaction finality
 // Implement on-chain identity verification
 // Improve DApp transaction flow
+// Add batch processing for transactions
