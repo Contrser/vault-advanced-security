@@ -6,3 +6,4 @@
 // Enhance security checks
 // Fix issues with token transfer confirmations
 // Refactor reward pooling algorithm
+// Integrate automated market maker (AMM) logic
