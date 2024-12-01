@@ -4,3 +4,4 @@
 // Enhance smart contract extensibility
 // Optimize storage for off-chain data
 // Add support for ERC-721A tokens
+// Add support for NFT marketplaces
