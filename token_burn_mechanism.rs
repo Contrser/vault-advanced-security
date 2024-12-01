@@ -2,3 +2,4 @@
 // Add support for NFT marketplaces
 // Refactor validator reward system
 // Refactor Ethereum gas price management
+// Refactor voting mechanism
