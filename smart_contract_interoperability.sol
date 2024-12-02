@@ -2,3 +2,4 @@
 // Fix overflow bug in token calculation
 // Refactor voting mechanism
 // Refactor token distribution mechanism
+// Code cleanup and documentation update
