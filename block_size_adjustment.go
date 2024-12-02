@@ -6,3 +6,4 @@
 // Update dependencies for Vyper contract
 // Enhance privacy features using zk-STARKs
 // Enhance smart contract compatibility
+// Fix governance proposal approval logic
