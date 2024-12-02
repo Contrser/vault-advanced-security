@@ -7,3 +7,4 @@
 // Fix interoperability issues with other blockchains
 // Fix compatibility issues with major wallets
 // Fix scalability issues with smart contracts
+// Add support for zk-SNARKs in smart contracts
