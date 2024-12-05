@@ -4,3 +4,4 @@
 // Improve oracle data validation mechanisms
 // Implement adaptive block size for Ethereum
 // Add new feature: on-chain governance
+// Integrate zk-rollups for scaling
