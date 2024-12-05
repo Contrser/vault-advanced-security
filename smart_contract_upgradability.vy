@@ -6,3 +6,4 @@
 // Optimize gas usage in contract execution
 // Integrate zk-rollups for scaling
 // Integrate with decentralized storage systems
+// Integrate Chainlink oracles
