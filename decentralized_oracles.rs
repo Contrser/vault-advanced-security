@@ -6,3 +6,4 @@
 // Add support for cross-chain bridges
 // Upgrade to latest Solidity version
 // Optimize Oracle-based data fetching
+// Enhance test coverage for Rust module
