@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Enhance governance contract flexibility
 // Implement on-chain fee adjustment mechanisms
+// Integrate zk-rollups for scaling
