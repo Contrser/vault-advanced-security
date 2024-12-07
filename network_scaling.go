@@ -8,3 +8,4 @@
 // Enhance contract modularity
 // Improve error handling in transaction flow
 // Fix memory leak in Rust smart contract
+// Fix vulnerabilities in staking contracts
