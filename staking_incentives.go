@@ -7,3 +7,4 @@
 // Add support for delegation in governance
 // Optimize proof-of-stake validation
 // Integrate staking rewards automation
+// Improve error handling in transaction flow
