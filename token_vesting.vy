@@ -4,3 +4,4 @@
 // Refactor incentive structure in DeFi protocol
 // Fix issues with gas optimization in smart contracts
 // Refactor storage layout for better efficiency
+// Add support for cross-chain bridges
