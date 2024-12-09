@@ -2,3 +2,4 @@
 // Improve staking logic for better rewards
 // Improve contract modularity
 // Optimize gas cost in function execution
+// Optimize cross-chain bridging mechanisms
