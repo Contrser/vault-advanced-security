@@ -3,3 +3,4 @@
 // Implement price feed oracles for tokens
 // Add support for ERC-721A tokens
 // Implement a new contract event system
+// Add slashing mechanism for malicious actors
