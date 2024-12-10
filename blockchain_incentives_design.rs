@@ -4,3 +4,4 @@
 // Refactor smart contract testing framework
 // Integrate chain-agnostic oracles
 // Add security checks for contract deployment
+// Integrate zk-SNARKs for enhanced privacy
