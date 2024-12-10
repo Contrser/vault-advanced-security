@@ -3,3 +3,4 @@
 // Refactor storage layout for better efficiency
 // Refactor Ethereum gas price management
 // Fix issues with token transfer confirmations
+// Add support for multiple consensus mechanisms
