@@ -8,3 +8,4 @@
 // Improve staking and yield farming logic
 // Integrate IPFS for storage
 // Integrate privacy-preserving mechanisms
+// Integrate zk-SNARKs for enhanced privacy
