@@ -8,3 +8,4 @@
 // Fix oracle data delays in decentralized apps
 // Upgrade to latest Solidity version
 // Implement cross-chain bridge
+// Integrate zk-rollups for scaling
