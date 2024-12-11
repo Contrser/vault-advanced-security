@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Refactor validator reward system
 // Implement reward distribution feature
+// Integrate automated market maker (AMM) logic
