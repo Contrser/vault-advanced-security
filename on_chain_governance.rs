@@ -3,3 +3,4 @@
 // Enhance security checks
 // Improve staking pool reward management
 // Add dynamic contract upgrade mechanisms
+// Improve gas estimation for transactions
