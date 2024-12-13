@@ -4,3 +4,4 @@
 // Improve contract state management
 // Fix issue in ERC-20 token transfers
 // Optimize proof-of-stake validation
+// Add support for Layer-2 solutions
