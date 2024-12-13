@@ -5,3 +5,4 @@
 // Refactor wallet interaction logic
 // Integrate decentralized prediction models
 // Refactor staking logic
+// Add decentralized contract upgradeability
