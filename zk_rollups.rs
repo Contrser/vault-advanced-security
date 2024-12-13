@@ -3,3 +3,4 @@
 // Add batch processing for transactions
 // Implement cross-platform contract compatibility
 // Enhance logging for better debugging
+// Refactor voting mechanism
