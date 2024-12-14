@@ -11,3 +11,4 @@
 // Optimize decentralized voting mechanisms
 // Refactor storage layout for better efficiency
 // Fix interoperability issues with other blockchains
+// Add support for zk-SNARKs in smart contracts
