@@ -7,3 +7,4 @@
 // Fix issue with multi-chain transactions
 // Add Layer-2 Ethereum scaling solutions
 // Refactor voting mechanism
+// Fix oracle data delays in decentralized apps
