@@ -6,3 +6,4 @@
 // Fix issues with token transfer confirmations
 // Enhance contract upgrade mechanism
 // Integrate Chainlink oracles for price data
+// Add multi-chain transaction support
