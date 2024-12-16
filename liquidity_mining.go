@@ -8,3 +8,4 @@
 // Enhance smart contract compatibility
 // Fix compatibility with MetaMask
 // Optimize contract storage for gas reduction
+// Refactor contract event emission
