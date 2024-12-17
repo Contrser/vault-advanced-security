@@ -5,3 +5,4 @@
 // Fix ERC-1155 contract interactions
 // Improve token minting flow efficiency
 // Fix oracle data delays in decentralized apps
+// Improve staking logic for better rewards
