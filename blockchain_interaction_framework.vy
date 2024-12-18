@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Upgrade to latest Solidity version
 // Fix governance proposal approval logic
+// Integrate Chainlink oracles
