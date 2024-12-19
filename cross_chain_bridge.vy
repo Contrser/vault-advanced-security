@@ -9,3 +9,4 @@
 // Add multi-sig wallet functionality
 // Improve contract verification speed
 // Improve contract verification speed
+// Integrate with external blockchain networks
