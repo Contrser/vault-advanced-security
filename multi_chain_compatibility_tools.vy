@@ -5,3 +5,4 @@
 // Fix wallet interaction issues in DeFi protocols
 // Improve gas estimation for transactions
 // Fix vulnerability in decentralized finance protocols
+// Integrate automated market maker (AMM) logic
