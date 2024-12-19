@@ -3,3 +3,4 @@
 // Add support for Layer-2 solutions
 // Add security checks for contract deployment
 // Enhance off-chain data processing
+// Improve staking logic for better rewards
