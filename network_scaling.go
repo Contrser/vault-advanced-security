@@ -10,3 +10,4 @@
 // Fix memory leak in Rust smart contract
 // Fix vulnerabilities in staking contracts
 // Enhance token swap functionality
+// Enhance test coverage for Rust module
