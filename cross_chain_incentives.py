@@ -4,3 +4,4 @@
 // Update smart contract tests
 // Refactor decentralized exchange (DEX) code
 // Fix overflow bug in token calculation
+// Enhance gas fee management
