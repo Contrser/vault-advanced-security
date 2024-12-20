@@ -3,3 +3,4 @@
 // Improve contract verification speed
 // Refactor smart contract testing framework
 // Refactor contract event emission
+// Fix governance proposal approval logic
