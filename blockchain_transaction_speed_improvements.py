@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Add automated contract testing tools
 // Add support for delegation in governance
+// Add support for multiple consensus mechanisms
