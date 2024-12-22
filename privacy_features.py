@@ -5,3 +5,4 @@
 // Fix issues with token transfer confirmations
 // Optimize state channels for faster transactions
 // Update dependencies for Vyper contract
+// Improve gas estimation for transactions
