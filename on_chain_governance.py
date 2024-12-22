@@ -3,3 +3,4 @@
 // Improve contract modularity
 // Fix interoperability issues with other blockchains
 // Optimize contract upgrade process
+// Enhance privacy features using zk-STARKs
