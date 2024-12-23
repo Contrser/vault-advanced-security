@@ -12,3 +12,4 @@
 // Integrate Chainlink oracles
 // Enhance security checks
 // Integrate with external DeFi protocols
+// Integrate with multi-token standards
