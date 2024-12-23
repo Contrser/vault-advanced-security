@@ -5,3 +5,4 @@
 // Integrate privacy-preserving mechanisms
 // Integrate with external blockchain networks
 // Integrate automated market maker (AMM) logic
+// Fix oracle data delays in decentralized apps
