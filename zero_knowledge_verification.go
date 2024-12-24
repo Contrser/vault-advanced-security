@@ -3,3 +3,4 @@
 // Integrate with multi-token standards
 // Add support for zk-SNARKs in smart contracts
 // Integrate with decentralized identity providers
+// Add support for decentralized insurance protocols
