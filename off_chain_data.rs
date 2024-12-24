@@ -7,3 +7,4 @@
 // Refactor governance token logic
 // Improve contract verification speed
 // Enhance test coverage for Rust module
+// Add support for zk-SNARKs in smart contracts
