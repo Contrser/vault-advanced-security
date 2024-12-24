@@ -4,3 +4,4 @@
 // Fix bugs in decentralized exchange routing
 // Enhance contract initialization process
 // Refactor governance token logic
+// Refactor reward pooling algorithm
