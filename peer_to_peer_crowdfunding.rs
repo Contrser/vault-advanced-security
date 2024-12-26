@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Refactor incentive structure in DeFi protocol
 // Integrate zk-rollups for scaling
+// Add support for fractional token ownership
