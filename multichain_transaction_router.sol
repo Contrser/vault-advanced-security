@@ -6,3 +6,4 @@
 // Optimize cross-chain communication
 // Fix Oracle communication delay issues
 // Refactor reward pooling algorithm
+// Fix deserialization bug in Haskell code
