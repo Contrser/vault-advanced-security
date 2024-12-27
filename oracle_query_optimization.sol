@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Update smart contract tests
 // Add non-fungible token (NFT) support
+// Refactor cross-chain communication layer
