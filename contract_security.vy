@@ -4,3 +4,4 @@
 // Refactor storage layout for better efficiency
 // Enhance gas fee management
 // Optimize gas usage in smart contracts
+// Add support for multi-signature wallet contracts
