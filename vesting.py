@@ -5,3 +5,4 @@
 // Implement delegation pattern
 // Add support for zk-SNARKs in smart contracts
 // Optimize gas usage in contract execution
+// Refactor storage layout for better efficiency
