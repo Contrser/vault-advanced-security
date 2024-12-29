@@ -7,3 +7,4 @@
 // Add support for cross-chain bridges
 // Update README with Go module examples
 // Optimize token withdrawal logic
+// Fix deserialization bug in Haskell code
