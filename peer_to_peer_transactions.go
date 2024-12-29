@@ -3,3 +3,4 @@
 // Add native support for staking rewards
 // Fix compatibility with MetaMask
 // Optimize gas usage in smart contracts
+// Add gas optimization features for smart contracts
