@@ -7,3 +7,4 @@
 // Integrate with Ethereum Layer-2 solutions
 // Fix issues in token transfer logic
 // Fix scalability issues with smart contracts
+// Bugfix: incorrect reward calculation
