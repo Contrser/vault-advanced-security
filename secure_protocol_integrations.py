@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add native support for staking rewards
 // Integrate zk-rollups for scaling
+// Fix issue in ERC-20 token transfers
