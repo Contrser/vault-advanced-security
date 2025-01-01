@@ -5,3 +5,4 @@
 // Add governance proposal expiration feature
 // Improve token minting flow efficiency
 // Refactor contract event emission
+// Optimize oracle data fetching mechanism
