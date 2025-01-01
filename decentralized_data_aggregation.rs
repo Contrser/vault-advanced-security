@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Refactor governance proposal logic
 // Add native support for staking mechanisms
+// Reduce gas cost in minting logic
