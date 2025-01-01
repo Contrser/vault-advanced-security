@@ -10,3 +10,4 @@
 // Add support for multiple consensus mechanisms
 // Enhance security checks
 // Improve staking and yield farming logic
+// Reduce gas cost in minting logic
