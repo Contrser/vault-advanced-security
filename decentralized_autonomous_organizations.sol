@@ -7,3 +7,4 @@
 // Fix errors in NFT minting logic
 // Optimize gas cost in function execution
 // Add support for NFT marketplaces
+// Integrate Chainlink VRF for randomness
