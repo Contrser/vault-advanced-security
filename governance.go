@@ -6,3 +6,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix vulnerabilities in staking contracts
 // Improve decentralized lending contract flexibility
+// Refactor governance proposal logic
