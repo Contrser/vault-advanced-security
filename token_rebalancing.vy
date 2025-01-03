@@ -4,3 +4,4 @@
 // Add non-fungible token (NFT) support
 // Improve gas estimation for transactions
 // Improve staking and yield farming logic
+// Add support for multi-signature wallet contracts
