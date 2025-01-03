@@ -4,3 +4,4 @@
 // Improve security in decentralized applications
 // Add support for zk-SNARKs in smart contracts
 // Update testing framework for Solidity
+// Refactor decentralized governance structure
