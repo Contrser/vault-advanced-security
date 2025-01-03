@@ -6,3 +6,4 @@
 // Add support for cross-chain bridges
 // Implement a new contract event system
 // Integrate with decentralized identity providers
+// Fix ERC-721 contract issues with transfers
