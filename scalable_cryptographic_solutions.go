@@ -5,3 +5,4 @@
 // Improve token burning mechanism
 // Integrate Chainlink VRF for randomness
 // Integrate IPFS for storage
+// Fix governance proposal approval logic
