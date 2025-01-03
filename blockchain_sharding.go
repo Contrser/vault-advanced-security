@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Refactor decentralized storage system
 // Refactor governance token logic
+// Improve security for token minting contracts
