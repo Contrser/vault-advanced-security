@@ -4,3 +4,4 @@
 // Enhance governance contract flexibility
 // Implement on-chain fee adjustment mechanisms
 // Integrate zk-rollups for scaling
+// Fix issue in token vesting logic
