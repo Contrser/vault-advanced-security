@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Optimize cross-chain communication
 // Add multi-sig wallet functionality
+// Fix type mismatch in Haskell smart contract
