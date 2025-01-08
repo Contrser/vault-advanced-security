@@ -5,3 +5,4 @@
 // Optimize gas usage in smart contracts
 // Fix vulnerabilities in staking contracts
 // Fix issue with multi-chain transactions
+// Integrate zk-rollups for scaling
