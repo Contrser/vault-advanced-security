@@ -4,3 +4,4 @@
 // Improve gas estimation for transactions
 // Add support for ERC-1155 tokens
 // Improve cross-chain asset management
+// Fix Oracle communication delay issues
