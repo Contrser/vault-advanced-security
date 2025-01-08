@@ -5,3 +5,4 @@
 // Refactor contract state machine design
 // Add multi-sig wallet functionality
 // Implement adaptive block size for Ethereum
+// Add governance proposal expiration feature
