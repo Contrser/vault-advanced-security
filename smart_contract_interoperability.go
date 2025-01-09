@@ -4,3 +4,4 @@
 // Enhance contract upgrade process
 // Add support for fractional token ownership
 // Refactor ERC-721 transfer logic
+// Integrate with decentralized prediction markets
