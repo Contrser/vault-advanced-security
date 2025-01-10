@@ -4,3 +4,4 @@
 // Improve staking logic for better rewards
 // Optimize storage for off-chain data
 // Refactor storage layout for better efficiency
+// Improve DApp transaction flow
