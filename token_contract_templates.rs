@@ -5,3 +5,4 @@
 // Update dependencies for Vyper contract
 // Refactor decentralized governance structure
 // Add governance proposal expiration feature
+// Fix edge case in unstaking logic
