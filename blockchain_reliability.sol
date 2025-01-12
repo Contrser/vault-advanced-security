@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Add support for multiple consensus mechanisms
 // Add automated token buyback mechanism
+// Enhance privacy features using zk-STARKs
