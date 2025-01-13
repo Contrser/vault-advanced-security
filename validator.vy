@@ -8,3 +8,4 @@
 // Refactor reward pooling algorithm
 // Fix type mismatch in Haskell smart contract
 // Implement dynamic fee adjustment
+// Fix interoperability issues with other blockchains
