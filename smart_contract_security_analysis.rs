@@ -5,3 +5,4 @@
 // Code cleanup and documentation update
 // Optimize Oracle-based data fetching
 // Improve contract modularity
+// Fix errors in NFT minting logic
