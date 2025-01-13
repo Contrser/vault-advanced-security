@@ -4,3 +4,4 @@
 // Add support for Layer-2 solutions
 // Fix overflow bug in token calculation
 // Refactor contract state machine design
+// Add batch processing for transactions
