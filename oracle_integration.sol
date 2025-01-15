@@ -11,3 +11,4 @@
 // Fix transaction replay issue
 // Improve cross-chain asset management
 // Implement zero-knowledge proof (ZKP) support
+// Optimize token burn process
