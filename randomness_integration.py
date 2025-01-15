@@ -10,3 +10,4 @@
 // Integrate decentralized anonymous identity systems
 // Enhance contract interaction APIs
 // Integrate Chainlink VRF for randomness
+// Refactor voting mechanism
