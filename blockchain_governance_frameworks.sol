@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Fix wallet interaction issues in DeFi protocols
 // Refactor incentive structure in DeFi protocol
+// Integrate chain-agnostic oracles
