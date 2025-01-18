@@ -3,3 +3,4 @@
 // Improve token burning mechanism
 // Implement liquidity pool staking mechanism
 // Optimize token burn process
+// Improve contract modularity
