@@ -5,3 +5,4 @@
 // Implement on-chain fee adjustment mechanisms
 // Integrate zk-rollups for scaling
 // Fix issue in token vesting logic
+// Fix bug in random number generation
