@@ -3,3 +3,4 @@
 // Improve gas estimation for transactions
 // Add batch processing for transactions
 // Enhance smart contract audit tools
+// Add multi-sig wallet functionality
