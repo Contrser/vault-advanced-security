@@ -4,3 +4,4 @@
 // Optimize contract upgrade process
 // Integrate staking rewards automation
 // Refactor multi-signature wallet code
+// Add support for delegation in governance
