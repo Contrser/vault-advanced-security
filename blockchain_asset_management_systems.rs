@@ -5,3 +5,4 @@
 // Improve decentralized identity (DID) systems
 // Refactor decentralized governance structure
 // Implement cross-platform contract compatibility
+// Fix compatibility issues with MetaMask
