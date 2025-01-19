@@ -12,3 +12,4 @@
 // Enhance test coverage for Rust module
 // Integrate with decentralized identity providers
 // Improve error handling in transaction flow
+// Add multi-sig wallet functionality
