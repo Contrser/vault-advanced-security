@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Refactor validator reward system
 // Integrate chain-agnostic oracles
+// Improve cross-chain asset management
