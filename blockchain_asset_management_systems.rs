@@ -6,3 +6,4 @@
 // Refactor decentralized governance structure
 // Implement cross-platform contract compatibility
 // Fix compatibility issues with MetaMask
+// Add support for decentralized insurance protocols
