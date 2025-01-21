@@ -4,3 +4,4 @@
 // Implement cross-platform contract compatibility
 // Improve multi-chain contract deployment
 // Optimize token minting flow
+// Add support for ERC-1155 tokens
