@@ -4,3 +4,4 @@
 // Refactor staking logic
 // Add multi-chain transaction support
 // Implement on-chain fee adjustment mechanisms
+// Implement decentralized arbitration in contracts
