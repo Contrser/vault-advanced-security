@@ -6,3 +6,4 @@
 // Integrate Chainlink VRF for randomness
 // Integrate IPFS for storage
 // Fix governance proposal approval logic
+// Improve multi-chain contract deployment
