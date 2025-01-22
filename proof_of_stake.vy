@@ -8,3 +8,4 @@
 // Fix issues with ERC-20 token approvals
 // Implement automated governance voting
 // Implement decentralized arbitration in contracts
+// Add unit tests for staking module
