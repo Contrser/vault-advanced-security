@@ -9,3 +9,4 @@
 // Fix deserialization bug in Haskell code
 // Optimize WASM compilation for Go contracts
 // Fix issues in token transfer logic
+// Refactor contract to use EIP-712 signatures
