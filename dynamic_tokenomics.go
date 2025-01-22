@@ -3,3 +3,4 @@
 // Fix issue with multi-chain transactions
 // Integrate with decentralized storage systems
 // Refactor decentralized storage system
+// Enhance privacy features using zk-STARKs
