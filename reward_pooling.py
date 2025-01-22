@@ -6,3 +6,4 @@
 // Fix transaction replay issue
 // Enhance smart contract compatibility
 // Implement liquidity pool staking mechanism
+// Add governance proposal expiration feature
