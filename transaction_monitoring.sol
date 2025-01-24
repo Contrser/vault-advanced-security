@@ -5,3 +5,4 @@
 // Fix bug in random number generation
 // Optimize gas cost in function execution
 // Add multi-sig wallet functionality
+// Fix deserialization bug in Haskell code
