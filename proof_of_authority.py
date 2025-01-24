@@ -12,3 +12,4 @@
 // Optimize storage for off-chain data
 // Fix memory leak in Rust smart contract
 // Improve decentralized oracle protocols
+// Add governance proposal expiration feature
