@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Add support for ERC-1155 tokens
 // Add native support for staking mechanisms
+// Add batch processing for transactions
