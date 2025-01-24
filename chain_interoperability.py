@@ -4,3 +4,4 @@
 // Implement cross-chain bridge
 // Add support for decentralized lending platforms
 // Improve multi-chain contract deployment
+// Add native support for staking rewards
