@@ -8,3 +8,4 @@
 // Fix edge case in unstaking logic
 // Improve error handling in transaction flow
 // Add support for batch transaction processing
+// Integrate decentralized oracles for data feeds
