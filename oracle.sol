@@ -10,3 +10,4 @@
 // Improve staking and yield farming logic
 // Implement contract function batching
 // Enhance logging for better debugging
+// Fix governance proposal approval logic
