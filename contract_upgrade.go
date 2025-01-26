@@ -5,3 +5,4 @@
 // Fix race condition in staking pool
 // Optimize contract upgrade process
 // Optimize cross-chain communication
+// Fix transaction replay issue
