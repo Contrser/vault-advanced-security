@@ -4,3 +4,4 @@
 // Add slashing mechanism for malicious actors
 // Fix issue in token vesting logic
 // Fix issues with cross-chain transaction finality
+// Enhance smart contract state changes monitoring
