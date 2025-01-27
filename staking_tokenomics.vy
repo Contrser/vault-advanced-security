@@ -5,3 +5,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add support for multi-signature wallet contracts
 // Enhance token swap functionality
+// Improve error handling in transaction flow
