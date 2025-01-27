@@ -4,3 +4,4 @@
 // Improve contract modularity
 // Add multi-sig wallet functionality
 // Add unit tests for staking module
+// Refactor staking logic
