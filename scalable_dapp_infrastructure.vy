@@ -4,3 +4,4 @@
 // Add automated contract testing tools
 // Improve API rate limiting
 // Fix vulnerabilities in staking contracts
+// Integrate with Ethereum Layer-2 solutions
