@@ -3,3 +3,4 @@
 // Improve decentralized exchange (DEX) liquidity
 // Add new feature: on-chain governance
 // Improve token burning mechanism
+// Enhance smart contract upgradeability
