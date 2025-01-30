@@ -3,3 +3,4 @@
 // Improve API rate limiting
 // Add support for Layer-2 solutions
 // Enhance smart contract compatibility
+// Add support for multiple consensus mechanisms
