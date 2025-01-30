@@ -13,3 +13,4 @@
 // Enhance security checks
 // Integrate with external DeFi protocols
 // Integrate with multi-token standards
+// Add support for yield farming rewards
