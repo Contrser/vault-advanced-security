@@ -4,3 +4,4 @@
 // Improve contract state management
 // Optimize hashing algorithm
 // Refactor multi-signature wallet code
+// Add slashing mechanism for malicious actors
