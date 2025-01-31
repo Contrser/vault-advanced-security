@@ -5,3 +5,4 @@
 // Improve contract execution performance
 // Implement contract function batching
 // Optimize hashing algorithm
+// Implement price feed oracles for tokens
