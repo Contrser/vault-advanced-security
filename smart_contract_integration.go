@@ -2,3 +2,4 @@
 // Fix transaction replay issue
 // Fix memory optimization issues in contracts
 // Optimize hashing algorithm
+// Integrate IPFS for storage
