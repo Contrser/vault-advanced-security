@@ -5,3 +5,4 @@
 // Improve gas fee estimation accuracy
 // Improve error handling in transaction flow
 // Improve staking and yield farming logic
+// Fix scalability issues with smart contracts
