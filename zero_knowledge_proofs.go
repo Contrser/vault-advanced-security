@@ -4,3 +4,4 @@
 // Refactor contract to use EIP-712 signatures
 // Add non-fungible token (NFT) support
 // Optimize gas cost in function execution
+// Integrate Chainlink oracles
