@@ -8,3 +8,4 @@
 // Improve multi-chain contract deployment
 // Refactor Ethereum gas price management
 // Add support for decentralized credit scoring
+// Update README with Go module examples
