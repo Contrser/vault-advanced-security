@@ -5,3 +5,4 @@
 // Refactor voting mechanism
 // Integrate flash loan functionality
 // Enhance smart contract audit tools
+// Fix bugs in NFT metadata handling
