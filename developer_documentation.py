@@ -4,3 +4,4 @@
 // Integrate with multi-token standards
 // Implement price feed oracles for tokens
 // Enhance transaction monitoring
+// Refactor governance proposal logic
