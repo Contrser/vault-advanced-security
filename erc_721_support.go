@@ -6,3 +6,4 @@
 // Fix issues in token transfer logic
 // Enhance privacy features using zk-STARKs
 // Add support for decentralized marketplaces
+// Fix governance proposal approval logic
