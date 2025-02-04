@@ -12,3 +12,4 @@
 // Fix errors in NFT minting logic
 // Enhance smart contract upgradeability
 // Refactor voting mechanism
+// Add fallback mechanism in Solidity contract
