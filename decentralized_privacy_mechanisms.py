@@ -4,3 +4,4 @@
 // Fix compatibility with MetaMask
 // Improve token burning mechanism
 // Refactor contract state machine design
+// Integrate privacy-enhancing smart contracts
