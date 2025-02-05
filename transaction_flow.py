@@ -10,3 +10,4 @@
 // Add governance proposal expiration feature
 // Implement emergency stop mechanism
 // Optimize gas usage in contract execution
+// Integrate privacy-preserving mechanisms
