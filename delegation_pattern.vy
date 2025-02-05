@@ -9,3 +9,4 @@
 // Improve transaction batching efficiency
 // Refactor decentralized exchange (DEX) code
 // Refactor staking logic
+// Improve smart contract logging
