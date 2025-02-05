@@ -5,3 +5,4 @@
 // Improve token minting flow efficiency
 // Refactor wallet interaction logic
 // Improve on-chain governance systems
+// Add support for Layer-2 solutions
