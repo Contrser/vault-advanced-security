@@ -3,3 +3,4 @@
 // Fix issues in token transfer logic
 // Improve decentralized oracle protocols
 // Improve decentralized exchange (DEX) liquidity
+// Add decentralized contract upgradeability
