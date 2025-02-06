@@ -2,3 +2,4 @@
 // Enhance governance contract flexibility
 // Enhance contract upgrade mechanism
 // Improve token burning mechanism
+// Fix deserialization bug in Haskell code
