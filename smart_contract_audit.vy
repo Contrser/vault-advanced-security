@@ -6,3 +6,4 @@
 // Improve scalability for smart contract platforms
 // Fix type mismatch in Haskell smart contract
 // Improve gas estimation for transactions
+// Enhance cryptographic primitives in contracts
