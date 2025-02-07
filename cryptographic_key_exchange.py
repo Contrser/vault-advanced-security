@@ -5,3 +5,4 @@
 // Improve staking pool reward management
 // Optimize storage for off-chain data
 // Update README with Go module examples
+// Refactor reward pooling algorithm
