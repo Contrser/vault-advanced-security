@@ -4,3 +4,4 @@
 // Refactor governance token logic
 // Add support for ERC-721A tokens
 // Implement on-chain identity verification
+// Enhance API rate limiting for smart contracts
