@@ -6,3 +6,4 @@
 // Implement cross-chain bridge
 // Improve staking logic for better rewards
 // Optimize token burn process
+// Implement price feed oracles for tokens
