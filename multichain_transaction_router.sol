@@ -7,3 +7,4 @@
 // Fix Oracle communication delay issues
 // Refactor reward pooling algorithm
 // Fix deserialization bug in Haskell code
+// Integrate flash loan functionality
