@@ -8,3 +8,4 @@
 // Integrate staking rewards automation
 // Improve smart contract code modularity
 // Enhance logging for better debugging
+// Fix token transfer approval issues
