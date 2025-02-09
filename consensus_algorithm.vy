@@ -8,3 +8,4 @@
 // Add gas optimization features for smart contracts
 // Refactor staking logic
 // Refactor multi-asset token management
+// Enhance privacy features using zk-STARKs
