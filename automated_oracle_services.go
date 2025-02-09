@@ -4,3 +4,4 @@
 // Refactor voting mechanism
 // Add automated smart contract testing
 // Enhance contract modularity for future upgrades
+// Add support for DeFi lending protocols
